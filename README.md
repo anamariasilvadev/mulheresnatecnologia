@@ -82,6 +82,7 @@ Conteúdos de referência produzidos por mulheres da tecnologia e por comunidade
 💻 [Start Coding](https://www.instagram.com/_startcoding/)</br>
 💻 [STEM para as Minas](https://www.stemparaminas.com/) <br>
 💻 [SysAdminas](https://sysadminas.com.br/) <br>
+💻 [Tech Sisters](https://instagram.com/tech.sisterss) <br>
 💻 [WoMakersCode](https://womakerscode.org/) <br>
 💻 [Cintia](https://sites.google.com/cin.ufpe.br/cintia)</br>
 💻 [Somos Tech](https://www.instagram.com/somos_tech)</br>
@@ -102,8 +103,7 @@ Conteúdos de referência produzidos por mulheres da tecnologia e por comunidade
 
 ### Eventos
 
-:date: [PrograMaria Summit](https://www.programaria.org/programaria-summit-2023/) <br>
-:date: [SummitFlix | PrograMaria](https://programaria.org/summitflix?_gl=1*l80sps*_ga*MTUxMjMwMzU1My4xNzAzNzIwMzA0*_ga_CWF88KQ9ZH*MTcwNDQ5NTI1Ny4xMS4xLjE3MDQ0OTYwMjcuNjAuMC4w) <br>
+:date: [SummitFlix | PrograMaria](https://www.programaria.org/summitflix/conteudos/) <br>
 
 ### Formações, Cursos e Bootcamps de Organizações
 
@@ -142,7 +142,7 @@ Conteúdos de referência produzidos por mulheres da tecnologia e por comunidade
 
 ### Materiais de Estudo
 
-:pushpin: [RogaDX - Roadmap do desenvolvedor Web](https://jakeliny.com.br/RogaDX-Roadmap-do-desenvolvedor-Web-cba8c83506d649f18f1fa9818354996e) <br>
+:pushpin: <br>
 
 ### Medium
 
@@ -174,9 +174,7 @@ Conteúdos de referência produzidos por mulheres da tecnologia e por comunidade
 
 ### Oportunidades para Mulheres
 
-💻 [Dupla Tech](https://duplatech.com/) <br>
-💻 [Se Candidate, Mulher!](https://secandidatemulher.com.br/) <br>
-💻 [Estrelas Aprendiz](https://www.zup.com.br/zup-academy/estrelas-aprendiz) <br>
+
 
 ### Palestras
 
@@ -237,5 +235,5 @@ Leia o arquivo CONTRIBUTING.md
 __<br>
 Ana Maria Silva | @ana.tech.dev <br>
 :globe_with_meridians: <a href="https://www.anamaria.dev.br" target="_blank">www.anamaria.dev.br</a> | <a href="https://www.instagram.com/ana.tech.dev/"><img alt="Instagram" src="https://img.shields.io/badge/ana.tech.dev-%23E4405F.svg?style=plastic&logo=Instagram&logoColor=white&color=blue"/></a><br>
-:octocat: <a href="https://github.com/anamariasilva" target="_blank">github.com/anamariasilva</a><br>
+:octocat: <a href="https://github.com/anamariasilvadev" target="_blank">github.com/anamariasilvadev</a><br>
 :octocat: <a href="https://github.com/anatechdev" target="_blank">github.com/anatechdev</a><br>
