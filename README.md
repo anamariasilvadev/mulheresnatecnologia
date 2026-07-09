@@ -1,11 +1,6 @@
 <img width="1983" height="793" alt="capa do repositório" src="https://github.com/user-attachments/assets/74d427f9-218f-4f6d-a60d-f0e9cf91d66f" />
 
-
 # Mulheres na Tecnologia
-
-## Sobre
-
----
 
 ## 💜 Sobre o projeto
 
@@ -15,7 +10,6 @@ O objetivo é ampliar a visibilidade de profissionais, incentivar novas pessoas 
 
 Este projeto é construído de forma colaborativa e toda contribuição é bem-vinda.
 
----
 
 ## 🎯 Objetivos
 
@@ -26,9 +20,7 @@ Este projeto é construído de forma colaborativa e toda contribuição é bem-v
 - Apoiar pessoas iniciando na área
 - Fortalecer iniciativas inclusivas
 
----
-
-# 📚 O que você encontrará
+## 📚 O que você encontrará
 
 - 👩‍💻 Criadoras de conteúdo
 - 📺 Canais no YouTube
@@ -42,9 +34,6 @@ Este projeto é construído de forma colaborativa e toda contribuição é bem-v
 - 🎤 Eventos
 - 🚀 Programas de mentoria
 
----
-
----
 
 ## 💡 Nosso propósito
 
@@ -52,7 +41,6 @@ Acreditamos que conhecimento compartilhado gera oportunidades.
 
 Quanto mais referências femininas estiverem visíveis, mais pessoas poderão se inspirar, aprender e construir uma carreira em tecnologia.
 
----
 
 ## ⭐ Apoie o projeto
 
@@ -292,6 +280,8 @@ Se este repositório foi útil para você:
 ### Contribuições
 
 Leia o arquivo CONTRIBUTING.md
+
+---
 
 ## 👩‍💻 Mantenedora
 
