@@ -61,6 +61,10 @@ Conteúdos de referência produzidos por mulheres da tecnologia e por comunidade
 💻 [Quero ser dev por Simara Conceição](https://www.youtube.com/@queroserdev) <br>
 💻 [Rafaella Ballerini](https://www.youtube.com/@rafaellaballerini) <br>
 
+### Chatbots
+1. [ButterflAI • WoMakers](https://chatgpt.com/g/g-68bb57d0c30481918b4c9abddaba6b86-butterflai-womakers)
+2. Maria Valente
+
 ### Comunidades
 
 💻 [AI Girls](https://aigirlsbr.github.io/) <br>
