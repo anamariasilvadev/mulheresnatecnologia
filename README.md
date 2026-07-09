@@ -27,7 +27,6 @@ Conteúdos de referência produzidos por mulheres da tecnologia e por comunidade
 :memo: [10 dicas para construir uma comunidade open source por Pachi Codes](https://dev.to/github/10-dicas-para-construir-uma-comunidade-open-source-4ig0) <br>
 :memo: [Como se tornar uma pessoa desenvolvedora em 2024? por Morganna](https://dev.to/feministech/como-se-tornar-uma-pessoa-desenvolvedora-em-2024-2lk0)<br>
 :memo: [Nina da Hora, Autor em MIT Technology Review](https://mittechreview.com.br/author/nina-hora/) <br>
-:memo: [Go Horse and Get Feedback - Evoluindo com estratégia na programação, por Jakeliny Gracielly](https://www.linkedin.com/pulse/go-horse-get-feedback-evoluindo-com-estrat%25C3%25A9gia-na-gracielly/) <br>
 :memo: [Como tratar exceções em uma API Java com @ControllerAdvice - Mônica Ribeiro](https://www.zup.com.br/blog/controller-advice)<br>
 :memo: [27 desenvolvedoras brasileiras para se inspirar em 2022 por Laura Loenert](https://community.revelo.io/27-desenvolvedoras-brasileiras-para-se-inspirar-em-2022/) <br>
 :memo: [Artigos Revelo Community por Ana Maria Silva](https://community.revelo.com/author/ana/) <br>
@@ -37,7 +36,6 @@ Conteúdos de referência produzidos por mulheres da tecnologia e por comunidade
 ### Blogs
 
 💻 [Erika Heidi](https://eheidi.dev/) <br>
-💻 [Jakeliny Gracielly](https://jakeliny.com.br/) <br>
 💻 [Simara Conceição](https://simaraconceicao.com/blog/) <br>
 💻 [Valchan](https://valchan.com.br/) <br>
 
@@ -168,8 +166,6 @@ Conteúdos de referência produzidos por mulheres da tecnologia e por comunidade
 
 💻 [Abacatinhos.dev: grupo de mentoria sobre a área de Devrel](https://github.com/Abacatinhos) <br>
 💻 [EntrevistaDeCodigoBR (@akaliueda)](https://docs.google.com/forms/d/e/1FAIpQLSfBrtQaCgeKwNLfpae69L8sY_HOOtlvKLgxdoUR0VSFtvEzhA/viewform) <br>
-💻 [Marmitech: mentoria gratuita sobre carreira profissional para devs](https://www.twitch.tv/jakeliny/schedule) <br>
-💻 [Jessica Ferrari: Metoria gratuita para iniciar a palestrar](https://www.instagram.com/jessica7ferrari_/) <br>
 
 ### ONGs
 
