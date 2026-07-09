@@ -1,4 +1,5 @@
-<a href="https://github.com/anatechdev"><img src="https://www.anamaria.dev.br/github/capa-mulheres-na-tecnologia.png" alt="capa do repositório Mulheres na Tecnologia" title="Repositório Mulheres na Tecnologia"></a>
+<img width="1983" height="793" alt="capa do repositório" src="https://github.com/user-attachments/assets/74d427f9-218f-4f6d-a60d-f0e9cf91d66f" />
+
 
 # Mulheres na Tecnologia
 
