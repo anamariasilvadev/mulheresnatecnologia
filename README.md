@@ -5,7 +5,68 @@
 
 ## Sobre
 
-Conteúdos de referência produzidos por mulheres da tecnologia e por comunidades, organizações e iniciativas para pessoas que se identificam com o gênero feminino.
+---
+
+## 💜 Sobre o projeto
+
+**Mulheres na Tecnologia** é um repositório colaborativo criado para reunir conteúdos, referências e iniciativas produzidas por mulheres que fazem a diferença no universo da tecnologia.
+
+O objetivo é ampliar a visibilidade de profissionais, incentivar novas pessoas a ingressarem na área e facilitar o acesso a materiais de qualidade produzidos pela comunidade.
+
+Este projeto é construído de forma colaborativa e toda contribuição é bem-vinda.
+
+---
+
+## 🎯 Objetivos
+
+- Incentivar a participação feminina na tecnologia
+- Dar visibilidade para criadoras de conteúdo
+- Compartilhar conhecimento gratuito
+- Reunir referências da comunidade
+- Apoiar pessoas iniciando na área
+- Fortalecer iniciativas inclusivas
+
+---
+
+# 📚 O que você encontrará
+
+- 👩‍💻 Criadoras de conteúdo
+- 📺 Canais no YouTube
+- 🎙️ Podcasts
+- 📰 Newsletters
+- ✍️ Blogs e artigos
+- 📖 Livros
+- 🎓 Cursos
+- 🌎 Comunidades
+- 💜 Projetos Open Source
+- 🎤 Eventos
+- 🚀 Programas de mentoria
+
+---
+
+---
+
+## 💡 Nosso propósito
+
+Acreditamos que conhecimento compartilhado gera oportunidades.
+
+Quanto mais referências femininas estiverem visíveis, mais pessoas poderão se inspirar, aprender e construir uma carreira em tecnologia.
+
+---
+
+## ⭐ Apoie o projeto
+
+Se este repositório foi útil para você:
+
+⭐ Deixe uma Star
+
+🍴 Faça um Fork
+
+📢 Compartilhe com outras pessoas
+
+💜 Contribua com novos conteúdos
+
+---
 
 `Hello world, Mulheres na Tecnologia!`
 
@@ -232,9 +293,22 @@ Conteúdos de referência produzidos por mulheres da tecnologia e por comunidade
 
 Leia o arquivo CONTRIBUTING.md
 
-<br>
-__<br>
-Ana Maria Silva | @ana.tech.dev <br>
-:globe_with_meridians: <a href="https://www.anamaria.dev.br" target="_blank">www.anamaria.dev.br</a> | <a href="https://www.instagram.com/ana.tech.dev/"><img alt="Instagram" src="https://img.shields.io/badge/ana.tech.dev-%23E4405F.svg?style=plastic&logo=Instagram&logoColor=white&color=blue"/></a><br>
-:octocat: <a href="https://github.com/anamariasilvadev" target="_blank">github.com/anamariasilvadev</a><br>
-:octocat: <a href="https://github.com/anatechdev" target="_blank">github.com/anatechdev</a><br>
+## 👩‍💻 Mantenedora
+
+**Ana Maria Silva**
+
+Analista de TI • Desenvolvedora • Content Creator
+
+- 🌐 https://www.anamaria.dev.br
+- GitHub: https://github.com/anamariasilvadev
+- Instagram: https://instagram.com/ana.tech.dev
+- LinkedIn: https://linkedin.com/in/anamariasilva
+
+---
+
+### 💜 Juntas, transformamos a tecnologia.
+
+Se você acredita em uma comunidade mais diversa, inclusiva e colaborativa, este projeto também é seu.
+
+⭐ Obrigada por contribuir!
+
