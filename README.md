@@ -275,18 +275,6 @@ Leia o arquivo CONTRIBUTING.md
 
 ---
 
-## 💻 Mantenedora
-
-**Ana Maria Silva**
-
-Analista de TI • Desenvolvedora • Content Creator
-
-- 🌐 https://www.anamaria.dev.br | https://www.anamariasilva.com.br
-- :octocat: https://github.com/anamariasilvadev
-- Instagram: https://instagram.com/ana.tech.dev
-- LinkedIn: https://linkedin.com/in/anamariasilva
-
-
 ## ⭐ Apoie o projeto
 
 ⭐ Deixe uma Star
@@ -301,4 +289,16 @@ Analista de TI • Desenvolvedora • Content Creator
 Se você acredita em uma comunidade mais diversa, inclusiva e colaborativa, este projeto também é seu. Contribua com novos conteúdos.
 
 ⭐ Obrigada por contribuir!
+
+
+## 💻 Mantenedora
+
+**Ana Maria Silva**
+
+Analista de TI • Desenvolvedora • Content Creator
+
+- 🌐 https://www.anamaria.dev.br | https://www.anamariasilva.com.br
+- :octocat: https://github.com/anamariasilvadev
+- Instagram: https://instagram.com/ana.tech.dev
+- LinkedIn: https://linkedin.com/in/anamariasilva
 
