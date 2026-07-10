@@ -121,7 +121,7 @@ Quanto mais referências femininas estiverem visíveis, mais pessoas poderão se
 - [STEM para as Minas](https://www.stemparaminas.com/)
 - [SysAdminas](https://sysadminas.com.br/)
 - [Tech Sisters](https://instagram.com/tech.sisterss)
-- [WoMakersCode](https://womakerscode.org/)
+- [WoMakersCode](https://www.womakerscode.org/comunidade)
 
 ### 🎓 Cursos
 
@@ -144,15 +144,13 @@ Quanto mais referências femininas estiverem visíveis, mais pessoas poderão se
 
 ### 📅 Eventos
 
-- [SummitFlix | PrograMaria](https://www.programaria.org/summitflix/conteudos/) <br>
+- [SummitFlix | PrograMaria](https://www.programaria.org/summitflix/conteudos/)
 
 ### 📖 Formações, Cursos e Bootcamps de Organizações
 
 - [Cursos {reprograma}](https://www.reprograma.com.br)
-- [Curso eu Progr{amo} da PrograMaria](https://www.programaria.org/curso-online-euprogramo/)
-- [Laboratória](https://laboratoria.la/pt)
+- [Curso eu Progr{amo} da PrograMaria](https://www.programaria.org/ultima-chance/)
 - [Mais Mulheres em Tech | WoMakersCode](https://www.maismulheres.tech/)
-- [Minas Programam](https://minasprogramam.com/)
 
 ### :octocat: GitHub
 
@@ -160,7 +158,9 @@ Quanto mais referências femininas estiverem visíveis, mais pessoas poderão se
 - [Lais Frigério | mulheres-na-tecnologia](https://github.com/laisfrigerio/mulheres-na-tecnologia)
 
 ### Grupos no LinkedIn
--
+
+- TechSisters
+- WoMakersCode
 
 ### ⭐ Histórias de Mulheres Inspiradoras
 
@@ -168,17 +168,23 @@ Quanto mais referências femininas estiverem visíveis, mais pessoas poderão se
 
 ### 🏢 Instituições e Organizações
 
-- [Brazilians in Tech](https://www.novo.braziliansintech.com/)
+- Brazilians in Tech
 - [Fly Educação e Cultura](https://www.flyeducacao.org/)
+- [Laboratória](https://laboratoria.la/pt)
 - [Meninas Digitais](https://meninas.sbc.org.br/)
+- [Minas Programam](https://minasprogramam.com/)
 - [PrograMaria](https://www.programaria.org/)
-
 
 ### 📚 Livros e e-books
 
 - [Mulheres em Tecnologia](https://www.casadocodigo.com.br/products/livro-mulheres-em-tecnologia) |  Beatriz Oliveira, Mariana Carvalho | Casa do Código
 - [Livros Loiane Groner](https://www.packtpub.com/authors/loiane-groner) | Loiane Groner
 - [Gestão de Produtos como você nunca viu](https://mulheresdeproduto.com/livro) | Mulheres de Produto
+
+### Lojas
+
+- [Loja online de WoMakersCode](https://womakerscode.lojavirtualnuvem.com.br/)
+- [Programe Como uma Garota](https://programecomoumagarota.com/loja/)
 
 ### 📂 Materiais de Estudo
 
@@ -210,7 +216,8 @@ Quanto mais referências femininas estiverem visíveis, mais pessoas poderão se
 ### ONGs
 
 - [IAMTHECODE FOUNDATION](https://www.iamthecode.org/)
-- [{reprograma}](https://reprograma.com.br)
+- [{reprograma}](https://reprograma.com.br)- 
+- [WoMakersCode](https://womakerscode.org/)
 
 ### 📈 Palestras
 
@@ -229,6 +236,7 @@ Quanto mais referências femininas estiverem visíveis, mais pessoas poderão se
 ### 💻 Programas
 
 - [Programa Women Techmakers do Google — Google for Developers](https://www.womentechmakers.com/)
+- [Programe como uma garota](https://programecomoumagarota.com/)
 
 ### 🌐 Repositórios de Comunidades
 
