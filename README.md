@@ -122,8 +122,6 @@ Quanto mais referências femininas estiverem visíveis, mais pessoas poderão se
 - [SysAdminas](https://sysadminas.com.br/)
 - [Tech Sisters](https://instagram.com/tech.sisterss)
 - [WoMakersCode](https://womakerscode.org/)
-- [Cintia](https://sites.google.com/cin.ufpe.br/cintia)
-- [Somos Tech](https://www.instagram.com/somos_tech)
 
 ### 🎓 Cursos
 
@@ -133,7 +131,7 @@ Quanto mais referências femininas estiverem visíveis, mais pessoas poderão se
 - [Cursos Loiane Groner](https://loiane.training/)
 - [React para iniciantes com Simara Conceição](https://queroserdev.com/event)
 
-### DEV Community (dev.to)
+### 🖥️ DEV Community (dev.to)
 
 <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=plastic&logo=dev.to&logoColor=white"> [Feministech](https://dev.to/feministech) <br>
 <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=plastic&logo=dev.to&logoColor=white"> [PHPWomenBR](https://dev.to/phpwomenbr) <br>
@@ -152,9 +150,8 @@ Quanto mais referências femininas estiverem visíveis, mais pessoas poderão se
 
 - [Cursos {reprograma}](https://www.reprograma.com.br)
 - [Curso eu Progr{amo} da PrograMaria](https://www.programaria.org/curso-online-euprogramo/)
-- [Laboratória](https://www.laboratoria.la/br)
+- [Laboratória](https://laboratoria.la/pt)
 - [Mais Mulheres em Tech | WoMakersCode](https://www.maismulheres.tech/)
-- [Meninas programadoras ICMC-USP](https://meninasprogramadoras.icmc.usp.br/inicio)
 - [Minas Programam](https://minasprogramam.com/)
 
 ### :octocat: GitHub
@@ -162,22 +159,20 @@ Quanto mais referências femininas estiverem visíveis, mais pessoas poderão se
 - [Bullas Attekita | girls-in-tech-brazil](https://github.com/Bullas/girls-in-tech-brazil)
 - [Lais Frigério | mulheres-na-tecnologia](https://github.com/laisfrigerio/mulheres-na-tecnologia)
 
+### Grupos no LinkedIn
+-
+
 ### ⭐ Histórias de Mulheres Inspiradoras
 
 - [Elas Inspiram | Brazilians in Tech](https://braziliansintech.com/elas/) <br>
 
-### 🖥️ Instagram
-
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white&color=blue"> [Iniciativas para Mulheres na Tecnologia](https://www.instagram.com/ana.tech.dev/p/C1sZTrsApEH/) <br>
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white&color=blue"> [Iniciativa She Lovelace](https://www.instagram.com/iniciativa.lovelace/) <br>
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white&color=blue"> [PHPWomenBR](https://www.instagram.com/phpwomenbr/) <br>
-
 ### 🏢 Instituições e Organizações
 
-- [Brazilians in Tech](https://www.novo.braziliansintech.com/) <br>
-- [Meninas Digitais](https://meninas.sbc.org.br/) <br>
-- [Meninas in tech](https://www.flyeducacao.org/inscricao-meninas-in-tech) <br>
-- [PrograMaria](https://www.programaria.org/) <br>
+- [Brazilians in Tech](https://www.novo.braziliansintech.com/)
+- [Fly Educação e Cultura](https://www.flyeducacao.org/)
+- [Meninas Digitais](https://meninas.sbc.org.br/)
+- [PrograMaria](https://www.programaria.org/)
+
 
 ### 📚 Livros e e-books
 
