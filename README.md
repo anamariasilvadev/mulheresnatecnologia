@@ -38,7 +38,6 @@ Este repositório é inspirado e uma continuidade no repositório do meu antigo 
 - 💜 Projetos Open Source
 - 📅 Eventos
 
-
 ## 💡 Propósito
 
 Acreditamos que conhecimento compartilhado gera oportunidades.
@@ -157,12 +156,11 @@ Quanto mais referências femininas estiverem visíveis, mais pessoas poderão se
 - [Mais Mulheres em Tech | WoMakersCode](https://www.maismulheres.tech/)
 - [Meninas programadoras ICMC-USP](https://meninasprogramadoras.icmc.usp.br/inicio)
 - [Minas Programam](https://minasprogramam.com/)
-- [Mulheres em Tech | Kenzie Academy e Brazilians in Tech](https://kenzie.com.br/eventos/braziliansintech)
-- [Use Academy Code Like a Girl | Use Mobile](https://usemobile.com.br/useacademy)
 
 ### :octocat: GitHub
 
--
+- [Bullas Attekita | girls-in-tech-brazil](https://github.com/Bullas/girls-in-tech-brazil)
+- [Lais Frigério | mulheres-na-tecnologia](https://github.com/laisfrigerio/mulheres-na-tecnologia)
 
 ### ⭐ Histórias de Mulheres Inspiradoras
 
@@ -287,8 +285,6 @@ Analista de TI • Desenvolvedora • Content Creator
 - :octocat: https://github.com/anamariasilvadev
 - Instagram: https://instagram.com/ana.tech.dev
 - LinkedIn: https://linkedin.com/in/anamariasilva
-
----
 
 
 ## ⭐ Apoie o projeto
