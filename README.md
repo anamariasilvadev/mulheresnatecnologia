@@ -10,6 +10,8 @@ O objetivo é ampliar a visibilidade de profissionais, incentivar novas pessoas 
 
 Este projeto é construído de forma colaborativa e toda contribuição é bem-vinda.
 
+Este repositório é inspirado e uma continuidade no repositório do meu antigo perfil do GitHub em [github.com/anatechdev/mulheres-na-tecnologia](https://github.com/anatechdev/mulheres-na-tecnologia)
+
 
 ## 🎯 Objetivos
 
@@ -98,42 +100,42 @@ Quanto mais referências femininas estiverem visíveis, mais pessoas poderão se
 💻 [Rafaella Ballerini](https://www.youtube.com/@rafaellaballerini) <br>
 
 ### Chatbots
-1. [ButterflAI • WoMakers](https://chatgpt.com/g/g-68bb57d0c30481918b4c9abddaba6b86-butterflai-womakers)
-2. [Maria Valente | A Chatbot da Toda Cidadã](https://www.todacidada.org/cidadaniadigital)
+- [ButterflAI • WoMakers](https://chatgpt.com/g/g-68bb57d0c30481918b4c9abddaba6b86-butterflai-womakers)
+- [Maria Valente | A Chatbot da Toda Cidadã](https://www.todacidada.org/cidadaniadigital)
 
 ### 🌎 Comunidades
 
-💻 [AI Girls](https://aigirlsbr.github.io/) <br>
-💻 [Cloud Girls](https://www.cloudgirls.com.br/) <br>
-💻 [Coletivo Unicas](https://coletivo-unicas.vercel.app/)</br>
-💻 [Comunidade Ballerini](https://br.linkedin.com/company/comunidadeballerini)</br>
-💻 [Data Girls Neuron](https://discord.com/invite/c6G2fPtJmy)</br>
-💻 [Feministech](https://feministech.com.br/) <br>
-💻 [He4rt Delas por He4rt Developers](https://t.co/Dw3jeA8XFV) <br>
-💻 [Iniciativa She Lovelace](https://www.linkedin.com/company/iniciativashelovelace/) <br>
-💻 [Mulheres Agilistas](https://www.instagram.com/mulheresagilistas/) <br>
-💻 [Mulheres de Produto](https://mulheresdeproduto.com/) <br>
-💻 [PHPWomenBR](https://www.linkedin.com/company/phpwomenbr/) <br>
-💻 [Mulheres em IA](https://www.linkedin.com/company/mulheres-em-ia/) <br>
-💻 [PHPWomenBR](https://phpwomen.org.br/) <br>
-💻 [PrograMaria](https://www.programaria.org/) <br>
-💻 [PyLadies Brasil](http://brasil.pyladies.com/) <br>
-💻 [RLadies BH](https://rladiesbh.com.br/) <br>
-💻 [Start Coding](https://www.instagram.com/_startcoding/)</br>
-💻 [STEM para as Minas](https://www.stemparaminas.com/) <br>
-💻 [SysAdminas](https://sysadminas.com.br/) <br>
-💻 [Tech Sisters](https://instagram.com/tech.sisterss) <br>
-💻 [WoMakersCode](https://womakerscode.org/) <br>
-💻 [Cintia](https://sites.google.com/cin.ufpe.br/cintia)</br>
-💻 [Somos Tech](https://www.instagram.com/somos_tech)</br>
+- [AI Girls](https://aigirlsbr.github.io/) <br>
+- [Cloud Girls](https://www.cloudgirls.com.br/) <br>
+- [Coletivo Unicas](https://coletivo-unicas.vercel.app/)</br>
+- [Comunidade Ballerini](https://br.linkedin.com/company/comunidadeballerini)</br>
+- [Data Girls Neuron](https://discord.com/invite/c6G2fPtJmy)</br>
+- [Feministech](https://feministech.com.br/) <br>
+- [He4rt Delas por He4rt Developers](https://t.co/Dw3jeA8XFV) <br>
+- [Iniciativa She Lovelace](https://www.linkedin.com/company/iniciativashelovelace/) <br>
+- [Mulheres Agilistas](https://www.instagram.com/mulheresagilistas/) <br>
+- [Mulheres de Produto](https://mulheresdeproduto.com/) <br>
+- [PHPWomenBR](https://www.linkedin.com/company/phpwomenbr/) <br>
+- [Mulheres em IA](https://www.linkedin.com/company/mulheres-em-ia/) <br>
+- [PHPWomenBR](https://phpwomen.org.br/) <br>
+- [PrograMaria](https://www.programaria.org/) <br>
+- [PyLadies Brasil](http://brasil.pyladies.com/) <br>
+- [RLadies BH](https://rladiesbh.com.br/) <br>
+- [Start Coding](https://www.instagram.com/_startcoding/)</br>
+- [STEM para as Minas](https://www.stemparaminas.com/) <br>
+- [SysAdminas](https://sysadminas.com.br/) <br>
+- [Tech Sisters](https://instagram.com/tech.sisterss) <br>
+- [WoMakersCode](https://womakerscode.org/) <br>
+- [Cintia](https://sites.google.com/cin.ufpe.br/cintia)</br>
+- [Somos Tech](https://www.instagram.com/somos_tech)</br>
 
 ### 🎓 Cursos
 
-💻 [Curso Eu ProgrAmo PrograMaria](https://www.programaria.org/cursos-programaria/) <br>
-💻 [Curso Básico de Lógica de Programação com Python de Mulheres para Mulheres: Saindo do Zero | Elas Programam e Quero Ser Programadora](https://www.elasprogramam.com.br/) <br>
-💻 [Curso completo de Modelagem de Banco de Dados na prática](https://www.udemy.com/course/curso-completo-de-modelagem-de-banco-de-dados-na-pratica/) <br>
-💻 [Cursos Loiane Groner](https://loiane.training/) <br>
-💻 [React para iniciantes com Simara Conceição](https://queroserdev.com/event) <br>
+- [Curso Eu ProgrAmo PrograMaria](https://www.programaria.org/cursos-programaria/) <br>
+- [Curso Básico de Lógica de Programação com Python de Mulheres para Mulheres: Saindo do Zero | Elas Programam e Quero Ser Programadora](https://www.elasprogramam.com.br/) <br>
+- [Curso completo de Modelagem de Banco de Dados na prática](https://www.udemy.com/course/curso-completo-de-modelagem-de-banco-de-dados-na-pratica/) <br>
+- [Cursos Loiane Groner](https://loiane.training/) <br>
+- [React para iniciantes com Simara Conceição](https://queroserdev.com/event) <br>
 
 ### DEV Community (dev.to)
 
@@ -143,24 +145,24 @@ Quanto mais referências femininas estiverem visíveis, mais pessoas poderão se
 
 ### Discord
 
-### Eventos
+### :date: Eventos
 
-:date: [SummitFlix | PrograMaria](https://www.programaria.org/summitflix/conteudos/) <br>
+- [SummitFlix | PrograMaria](https://www.programaria.org/summitflix/conteudos/) <br>
 
 ### Formações, Cursos e Bootcamps de Organizações
 
-💻 [Cursos {reprograma}](https://www.reprograma.com.br) <br>
-💻 [Curso eu Progr{amo} da PrograMaria](https://www.programaria.org/curso-online-euprogramo/) <br>
-💻 [Laboratória](https://www.laboratoria.la/br) <br>
-💻 [Mais Mulheres em Tech | WoMakersCode](https://www.maismulheres.tech/) <br>
-💻 [Meninas programadoras ICMC-USP](https://meninasprogramadoras.icmc.usp.br/inicio) <br>
-💻 [Minas Programam](https://minasprogramam.com/) <br>
-💻 [Mulheres em Tech | Kenzie Academy e Brazilians in Tech](https://kenzie.com.br/eventos/braziliansintech) <br>
-💻 [Use Academy Code Like a Girl | Use Mobile](https://usemobile.com.br/useacademy) <br>
+- [Cursos {reprograma}](https://www.reprograma.com.br) <br>
+- [Curso eu Progr{amo} da PrograMaria](https://www.programaria.org/curso-online-euprogramo/) <br>
+- [Laboratória](https://www.laboratoria.la/br) <br>
+- [Mais Mulheres em Tech | WoMakersCode](https://www.maismulheres.tech/) <br>
+- [Meninas programadoras ICMC-USP](https://meninasprogramadoras.icmc.usp.br/inicio) <br>
+- [Minas Programam](https://minasprogramam.com/) <br>
+- [Mulheres em Tech | Kenzie Academy e Brazilians in Tech](https://kenzie.com.br/eventos/braziliansintech) <br>
+- [Use Academy Code Like a Girl | Use Mobile](https://usemobile.com.br/useacademy) <br>
 
-### Histórias de Mulheres Inspiradoras
+### ⭐ Histórias de Mulheres Inspiradoras
 
-⭐ [Elas Inspiram | Brazilians in Tech](https://braziliansintech.com/elas/) <br>
+- [Elas Inspiram | Brazilians in Tech](https://braziliansintech.com/elas/) <br>
 
 ### Instagram
 
@@ -170,17 +172,17 @@ Quanto mais referências femininas estiverem visíveis, mais pessoas poderão se
 
 ### Instituições e Organizações
 
-:computer: [Brazilians in Tech](https://www.novo.braziliansintech.com/) <br>
-:computer: [Meninas Digitais](https://meninas.sbc.org.br/) <br>
-:computer: [Meninas in tech](https://www.flyeducacao.org/inscricao-meninas-in-tech) <br>
-:computer: [PrograMaria](https://www.programaria.org/) <br>
+- [Brazilians in Tech](https://www.novo.braziliansintech.com/) <br>
+- [Meninas Digitais](https://meninas.sbc.org.br/) <br>
+- [Meninas in tech](https://www.flyeducacao.org/inscricao-meninas-in-tech) <br>
+- [PrograMaria](https://www.programaria.org/) <br>
 
 ### 📘 Livros e e-books
 
-📘 [Mulheres em Tecnologia | Beatriz Oliveira, Mariana Carvalho | Casa do Código](https://www.casadocodigo.com.br/products/livro-mulheres-em-tecnologia) <br>
-📘 [Livros Loiane Groner](https://www.packtpub.com/authors/loiane-groner) <br>
-📘 [Ebook Guia da Computação em Nuvem - Conceito, Prática e Capacitação](https://leanpub.com/guia-da-computacao-em-nuvem/)</br>
-📘 [Gestão de Produtos como você nunca viu](https://mulheresdeproduto.com/livro) <br>
+- [Mulheres em Tecnologia | Beatriz Oliveira, Mariana Carvalho | Casa do Código](https://www.casadocodigo.com.br/products/livro-mulheres-em-tecnologia)
+- [Livros Loiane Groner](https://www.packtpub.com/authors/loiane-groner)
+- [Ebook Guia da Computação em Nuvem - Conceito, Prática e Capacitação](https://leanpub.com/guia-da-computacao-em-nuvem/)
+- [Gestão de Produtos como você nunca viu](https://mulheresdeproduto.com/livro)
 
 ### Materiais de Estudo
 
@@ -188,13 +190,13 @@ Quanto mais referências femininas estiverem visíveis, mais pessoas poderão se
 
 ### Medium
 
-💻 [Brazilians in Tech](https://medium.com/@braziliansintech) <br>
-💻 [Karina Tronkos](https://medium.com/@karinatronkos) <br>
-💻 [Luizalabs](https://medium.com/luizalabs) <br>
-💻 [Mariana Carvalho](https://medium.com/@mariana.carvalho) <br>
-💻 [Mulheres de Produto](https://medium.com/mulheres-de-produto) <br>
-💻 [RLadies BH](https://medium.com/rladiesbh) <br>
-💻 [STEM para as Minas](https://stemparaminas.medium.com/) <br>
+- [Brazilians in Tech](https://medium.com/@braziliansintech)
+- [Karina Tronkos](https://medium.com/@karinatronkos)
+- [Luizalabs](https://medium.com/luizalabs)
+- [Mariana Carvalho](https://medium.com/@mariana.carvalho)
+- [Mulheres de Produto](https://medium.com/mulheres-de-produto)
+- [RLadies BH](https://medium.com/rladiesbh)
+- [STEM para as Minas](https://stemparaminas.medium.com/)
 
 ### MeetUps
 
@@ -204,47 +206,45 @@ Quanto mais referências femininas estiverem visíveis, mais pessoas poderão se
 
 ### Mentorias
 
-💻 [Abacatinhos.dev: grupo de mentoria sobre a área de Devrel](https://github.com/Abacatinhos) <br>
-💻 [EntrevistaDeCodigoBR (@akaliueda)](https://docs.google.com/forms/d/e/1FAIpQLSfBrtQaCgeKwNLfpae69L8sY_HOOtlvKLgxdoUR0VSFtvEzhA/viewform) <br>
+- [Abacatinhos.dev: grupo de mentoria sobre a área de Devrel](https://github.com/Abacatinhos)
+- [EntrevistaDeCodigoBR (@akaliueda)](https://docs.google.com/forms/d/e/1FAIpQLSfBrtQaCgeKwNLfpae69L8sY_HOOtlvKLgxdoUR0VSFtvEzhA/viewform)
 
 ### 📰 Newsletters
 
 ### ONGs
 
-💻 [IAMTHECODE FOUNDATION](https://www.iamthecode.org/)<br>
-💻 [{reprograma}](https://reprograma.com.br) <br>
-
-### Oportunidades para Mulheres
+- [IAMTHECODE FOUNDATION](https://www.iamthecode.org/)
+- [{reprograma}](https://reprograma.com.br)
 
 ### Palestras
 
-💻 [Palestras da Kamila Santos - @kamila_code](https://speakerdeck.com/kamilahsantos) <br>
-💻 [ReactJs: um Roadmap para iniciantes - Simara Conceição](https://www.youtube.com/watch?v=pxOMUMQEy-Y) <br>
+- [Palestras da Kamila Santos - @kamila_code](https://speakerdeck.com/kamilahsantos)
+- [ReactJs: um Roadmap para iniciantes - Simara Conceição](https://www.youtube.com/watch?v=pxOMUMQEy-Y)
 
 ### 🎙️Podcasts
 
-🎧 [Ciência Pod](https://www.stemparaminas.com/podcast) <br>
-🎧 [Feministech](https://podcasters.spotify.com/pod/show/feministech) <br>
-🎧 [Elas Programam | Silvia Coelho](https://open.spotify.com/show/1Ay5y5TFWQPq3Pw2Xy209U) <br>
-🎧 [Mulheres de Produto](https://open.spotify.com/show/1rfUWxL2Ia7kA343ClLya1) <br>
-🎧 [Quero Ser Dev | Simara Conceição](https://open.spotify.com/show/59vCz4TY6tPHXW26qJknh3) <br>
-🎧 [DEVAneando | Paula Santana](https://open.spotify.com/show/5TYY7DTbeOyTgJxVLGO1Mf?si=2bb891e5f1044102) <br>
+- [Ciência Pod](https://www.stemparaminas.com/podcast)
+- [Feministech](https://podcasters.spotify.com/pod/show/feministech)
+- [Elas Programam | Silvia Coelho](https://open.spotify.com/show/1Ay5y5TFWQPq3Pw2Xy209U)
+- [Mulheres de Produto](https://open.spotify.com/show/1rfUWxL2Ia7kA343ClLya1)
+- [Quero Ser Dev | Simara Conceição](https://open.spotify.com/show/59vCz4TY6tPHXW26qJknh3) 
+- [DEVAneando | Paula Santana](https://open.spotify.com/show/5TYY7DTbeOyTgJxVLGO1Mf?si=2bb891e5f1044102)
 
-### Programas
+### 💻 Programas
 
-💻 [Programa Women Techmakers do Google — Google for Developers](https://www.womentechmakers.com/) <br>
+- [Programa Women Techmakers do Google — Google for Developers](https://www.womentechmakers.com/)
 
-### Repositórios de Comunidades
+### 🌐 Repositórios de Comunidades
 
-💻 [Abacatinhos.dev: grupo de mentoria sobre a área de Devrel](https://github.com/Abacatinhos) <br>
-💻 [Compiladoras de Cafeína](https://github.com/compiladoras) <br>
-💻 [Feministech](https://github.com/feministech) <br>
-💻 [Mulheres em Dados](https://github.com/mulheresemdados) <br>
-💻 [PHPWomenBR](https://github.com/phpwomenbr) <br>
-💻 [PyLadies Brasil](https://github.com/pyladies-brazil) <br>
-💻 [Start Coding](https://github.com/startcodingstaff) <br>
+- [Abacatinhos.dev: grupo de mentoria sobre a área de Devrel](https://github.com/Abacatinhos)
+- [Compiladoras de Cafeína](https://github.com/compiladoras)
+- [Feministech](https://github.com/feministech)
+- [Mulheres em Dados](https://github.com/mulheresemdados)
+- [PHPWomenBR](https://github.com/phpwomenbr)
+- [PyLadies Brasil](https://github.com/pyladies-brazil)
+- [Start Coding](https://github.com/startcodingstaff)
 
-### Repositórios de Pessoas Desenvolvedoras
+### ⭐ Repositórios de Pessoas Desenvolvedoras
 
 ⭐ [21 dias de código - Desafio Rocketseat por Lais Frigério | laisfrigerio](https://github.com/laisfrigerio/21-dias-de-codigo-rocketseat) <br>
 ⭐ [100 dias de evolução dev por Lyssa Cavalcanti Backschat | lyssacavalcanti](https://github.com/lyssacavalcanti/100DiasEvolucaoDev) <br>
