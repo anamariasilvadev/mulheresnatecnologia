@@ -6,7 +6,7 @@
 
 ## 💜 Sobre o Projeto
 
-**Mulheres na Tecnologia** é um repositório colaborativo criado para reunir conteúdos, referências e iniciativas produzidas por mulheres que fazem a diferença no universo da tecnologia.
+**Mulheres na Tecnologia** é um repositório colaborativo criado para reunir conteúdos, referências e iniciativas produzidas por mulheres que fazem a diferença no universo da tecnologia e STEM.
 
 O objetivo é ampliar a visibilidade de profissionais, incentivar novas pessoas a ingressarem na área e facilitar o acesso a materiais de qualidade produzidos pela comunidade.
 
