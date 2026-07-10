@@ -73,28 +73,28 @@ Quanto mais referências femininas estiverem visíveis, mais pessoas poderão se
 
 ### ✏️ Blogs
 
-- [Erika Heidi](https://eheidi.dev/) <br>
-- [Simara Conceição](https://simaraconceicao.com/blog/) <br>
-- [Valchan](https://valchan.com.br/) <br>
+- [Erika Heidi](https://eheidi.dev/)
+- [Simara Conceição](https://simaraconceicao.com/blog/)
+- [Valchan](https://valchan.com.br/)
 
 ### 📺 Canais no Youtube
 
-- [Attekita Dev](https://www.youtube.com/@attekitadev)<br>
-- [Code By Duda](https://www.youtube.com/c/CodeByDuda) <br>
-- [Conecta Elas](https://www.youtube.com/@conectaelas) <br>
-- [De Front Com Aline](https://www.youtube.com/c/DeFrontcomAline) <br>
-- [dev_steph](https://www.youtube.com/@dev_steph) <br>
-- [Girl Coding](https://www.youtube.com/c/GirlCoding)<br>
-- [Kamila code](https://www.youtube.com/@Kamilacode) <br>
-- [Lais Frigerio](https://www.youtube.com/@laisfrigerio) <br>
-- [Larissa de Oliveira - Tech Community](https://www.youtube.com/@larideoliiveira) <br>
-- [Natália F. Dev](https://www.youtube.com/@NataliaFDev) <br>
-- [Loiane Groner](https://www.youtube.com/@loianegroner) <br>
-- [Michelli Brito](https://www.youtube.com/c/MichelliBrito/featured) <br>
-- [Miriam Almeida](https://www.youtube.com/@MiriamTechCod/featured) <br>
-- [Peixe Babel](https://www.youtube.com/c/PeixeBabel/featured) <br>
-- [Quero ser dev por Simara Conceição](https://www.youtube.com/@queroserdev) <br>
-- [Rafaella Ballerini](https://www.youtube.com/@rafaellaballerini) <br>
+- [Attekita Dev](https://www.youtube.com/@attekitadev)
+- [Code By Duda](https://www.youtube.com/c/CodeByDuda)
+- [Conecta Elas](https://www.youtube.com/@conectaelas)
+- [De Front Com Aline](https://www.youtube.com/c/DeFrontcomAline)
+- [Stephanie Cardoso - dev_steph](https://www.youtube.com/@dev_steph)
+- [Girl Coding](https://www.youtube.com/c/GirlCoding)
+- [Kamila code](https://www.youtube.com/@Kamilacode)
+- [Lais Frigerio](https://www.youtube.com/@laisfrigerio)
+- [Nina Talks](https://www.youtube.com/@NinaTalksToYou)
+- [Natália F. Dev](https://www.youtube.com/@NataliaFDev)
+- [Loiane Groner](https://www.youtube.com/@loianegroner)
+- [Michelli Brito](https://www.youtube.com/c/MichelliBrito/featured) 
+- [Peixe Babel](https://www.youtube.com/c/PeixeBabel/featured)
+- [Punk do DevOps](https://www.youtube.com/c/punkdodevops)
+- [Quero ser dev por Simara Conceição](https://www.youtube.com/@queroserdev)
+- [Rafaella Ballerini](https://www.youtube.com/@rafaellaballerini)
 
 ### 🤖 Chatbots
 - [ButterflAI • WoMakers](https://chatgpt.com/g/g-68bb57d0c30481918b4c9abddaba6b86-butterflai-womakers)
@@ -226,7 +226,6 @@ Quanto mais referências femininas estiverem visíveis, mais pessoas poderão se
 ### 📈 Palestras
 
 - [Palestras da Kamila Santos - @kamila_code](https://speakerdeck.com/kamilahsantos)
-- [ReactJs: um Roadmap para iniciantes - Simara Conceição](https://www.youtube.com/watch?v=pxOMUMQEy-Y)
 
 ### 🎙️Podcasts
 
