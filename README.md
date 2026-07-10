@@ -2,7 +2,7 @@
 
 # Mulheres na Tecnologia
 
-## 💜 Sobre o projeto
+## 💜 Sobre o Projeto
 
 **Mulheres na Tecnologia** é um repositório colaborativo criado para reunir conteúdos, referências e iniciativas produzidas por mulheres que fazem a diferença no universo da tecnologia.
 
@@ -20,39 +20,26 @@ Este projeto é construído de forma colaborativa e toda contribuição é bem-v
 - Apoiar pessoas iniciando na área
 - Fortalecer iniciativas inclusivas
 
-## 📚 O que você encontrará
+## 📚 Materiais
 
 - 👩‍💻 Criadoras de conteúdo
 - 📺 Canais no YouTube
 - 🎙️ Podcasts
 - 📰 Newsletters
 - ✍️ Blogs e artigos
-- 📖 Livros
+- 📘 Livros
 - 🎓 Cursos
 - 🌎 Comunidades
 - 💜 Projetos Open Source
-- 🎤 Eventos
+- :date: Eventos
 - 🚀 Programas de mentoria
 
 
-## 💡 Nosso propósito
+## 💡 Propósito
 
 Acreditamos que conhecimento compartilhado gera oportunidades.
 
 Quanto mais referências femininas estiverem visíveis, mais pessoas poderão se inspirar, aprender e construir uma carreira em tecnologia.
-
-
-## ⭐ Apoie o projeto
-
-Se este repositório foi útil para você:
-
-⭐ Deixe uma Star
-
-🍴 Faça um Fork
-
-📢 Compartilhe com outras pessoas
-
-💜 Contribua com novos conteúdos
 
 ---
 
@@ -113,7 +100,7 @@ Se este repositório foi útil para você:
 1. [ButterflAI • WoMakers](https://chatgpt.com/g/g-68bb57d0c30481918b4c9abddaba6b86-butterflai-womakers)
 2. Maria Valente
 
-### Comunidades
+### 🌎 Comunidades
 
 💻 [AI Girls](https://aigirlsbr.github.io/) <br>
 💻 [Cloud Girls](https://www.cloudgirls.com.br/) <br>
@@ -139,7 +126,7 @@ Se este repositório foi útil para você:
 💻 [Cintia](https://sites.google.com/cin.ufpe.br/cintia)</br>
 💻 [Somos Tech](https://www.instagram.com/somos_tech)</br>
 
-### Cursos
+### 🎓 Cursos
 
 💻 [Curso Eu ProgrAmo PrograMaria](https://www.programaria.org/cursos-programaria/) <br>
 💻 [Curso Básico de Lógica de Programação com Python de Mulheres para Mulheres: Saindo do Zero | Elas Programam e Quero Ser Programadora](https://www.elasprogramam.com.br/) <br>
@@ -152,6 +139,8 @@ Se este repositório foi útil para você:
 <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=plastic&logo=dev.to&logoColor=white"> [Feministech](https://dev.to/feministech) <br>
 <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=plastic&logo=dev.to&logoColor=white"> [PHPWomenBR](https://dev.to/phpwomenbr) <br>
 <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=plastic&logo=dev.to&logoColor=white"> [WoMakersCode](https://dev.to/womakerscode) <br>
+
+### Discord
 
 ### Eventos
 
@@ -185,7 +174,7 @@ Se este repositório foi útil para você:
 :computer: [Meninas in tech](https://www.flyeducacao.org/inscricao-meninas-in-tech) <br>
 :computer: [PrograMaria](https://www.programaria.org/) <br>
 
-### Livros e e-books
+### 📘 Livros e e-books
 
 📘 [Mulheres em Tecnologia | Beatriz Oliveira, Mariana Carvalho | Casa do Código](https://www.casadocodigo.com.br/products/livro-mulheres-em-tecnologia) <br>
 📘 [Livros Loiane Groner](https://www.packtpub.com/authors/loiane-groner) <br>
@@ -217,6 +206,8 @@ Se este repositório foi útil para você:
 💻 [Abacatinhos.dev: grupo de mentoria sobre a área de Devrel](https://github.com/Abacatinhos) <br>
 💻 [EntrevistaDeCodigoBR (@akaliueda)](https://docs.google.com/forms/d/e/1FAIpQLSfBrtQaCgeKwNLfpae69L8sY_HOOtlvKLgxdoUR0VSFtvEzhA/viewform) <br>
 
+### 📰 Newsletters
+
 ### ONGs
 
 💻 [IAMTHECODE FOUNDATION](https://www.iamthecode.org/)<br>
@@ -224,14 +215,12 @@ Se este repositório foi útil para você:
 
 ### Oportunidades para Mulheres
 
-
-
 ### Palestras
 
 💻 [Palestras da Kamila Santos - @kamila_code](https://speakerdeck.com/kamilahsantos) <br>
 💻 [ReactJs: um Roadmap para iniciantes - Simara Conceição](https://www.youtube.com/watch?v=pxOMUMQEy-Y) <br>
 
-### Podcasts
+### 🎙️Podcasts
 
 🎧 [Ciência Pod](https://www.stemparaminas.com/podcast) <br>
 🎧 [Feministech](https://podcasters.spotify.com/pod/show/feministech) <br>
@@ -283,22 +272,32 @@ Leia o arquivo CONTRIBUTING.md
 
 ---
 
-## 👩‍💻 Mantenedora
+## 💻 Mantenedora
 
 **Ana Maria Silva**
 
 Analista de TI • Desenvolvedora • Content Creator
 
-- 🌐 https://www.anamaria.dev.br
+- 🌐 https://www.anamaria.dev.br | https://www.anamariasilva.com.br
 - GitHub: https://github.com/anamariasilvadev
 - Instagram: https://instagram.com/ana.tech.dev
 - LinkedIn: https://linkedin.com/in/anamariasilva
 
 ---
 
-### 💜 Juntas, transformamos a tecnologia.
 
-Se você acredita em uma comunidade mais diversa, inclusiva e colaborativa, este projeto também é seu.
+## ⭐ Apoie o projeto
+
+⭐ Deixe uma Star
+
+💻 Faça um Fork
+
+📢 Compartilhe com outras pessoas
+
+
+## 💜 Juntas, transformamos a tecnologia.
+
+Se você acredita em uma comunidade mais diversa, inclusiva e colaborativa, este projeto também é seu. Contribua com novos conteúdos.
 
 ⭐ Obrigada por contribuir!
 
