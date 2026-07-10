@@ -26,7 +26,8 @@ Este projeto é construído de forma colaborativa e toda contribuição é bem-v
 - 📺 Canais no YouTube
 - 🎙️ Podcasts
 - 📰 Newsletters
-- ✍️ Blogs e artigos
+- :memo: Artigos
+- ✍️ Blogs
 - 📘 Livros
 - 🎓 Cursos
 - 🌎 Comunidades
@@ -45,7 +46,7 @@ Quanto mais referências femininas estiverem visíveis, mais pessoas poderão se
 
 `Hello world, Mulheres na Tecnologia!`
 
-### Artigos
+### :memo: Artigos
 
 :memo: [Artigos PrograMaria](https://www.programaria.org/category/artigos/) <br>
 :memo: [10 projetos focados na capacitação e qualificação em TI de mulheres, mulheres negras, mulheres trans e travestis.](https://dev.to/guiadeti/10-projetos-focados-na-capacitacao-e-qualificacao-em-ti-de-mulheres-mulheres-negras-mulheres-trans-e-travestis-11bo) <br>
@@ -76,7 +77,7 @@ Quanto mais referências femininas estiverem visíveis, mais pessoas poderão se
 💻 [Simara Conceição](https://simaraconceicao.com/blog/) <br>
 💻 [Valchan](https://valchan.com.br/) <br>
 
-### Canais no Youtube
+### 📺 Canais no Youtube
 
 💻 [Attekita Dev](https://www.youtube.com/@attekitadev)<br>
 💻 [Code By Duda](https://www.youtube.com/c/CodeByDuda) <br>
@@ -98,7 +99,7 @@ Quanto mais referências femininas estiverem visíveis, mais pessoas poderão se
 
 ### Chatbots
 1. [ButterflAI • WoMakers](https://chatgpt.com/g/g-68bb57d0c30481918b4c9abddaba6b86-butterflai-womakers)
-2. Maria Valente
+2. [Maria Valente | A Chatbot da Toda Cidadã](https://www.todacidada.org/cidadaniadigital)
 
 ### 🌎 Comunidades
 
