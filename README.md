@@ -46,7 +46,7 @@ Quanto mais referências femininas estiverem visíveis, mais pessoas poderão se
 
 ### 📝 Artigos
 
-- [Artigos PrograMaria](https://www.programaria.org/category/artigos/)- 
+- [Artigos PrograMaria](https://www.programaria.org/category/artigos/)
 - [10 dicas para construir uma comunidade open source por Pachi Codes](https://dev.to/github/10-dicas-para-construir-uma-comunidade-open-source-4ig0)
 - [10 projetos focados na capacitação e qualificação em TI de mulheres, mulheres negras, mulheres trans e travestis.](https://dev.to/guiadeti/10-projetos-focados-na-capacitacao-e-qualificacao-em-ti-de-mulheres-mulheres-negras-mulheres-trans-e-travestis-11bo)
 - [Como criar um ótimo perfil de GitHub Sponsor por Pachi 🪐 (she/her/ela) for GitHub](https://dev.to/github/como-criar-um-otimo-perfil-de-github-sponsor-21ad)
@@ -127,9 +127,11 @@ Quanto mais referências femininas estiverem visíveis, mais pessoas poderão se
 
 ### 🖥️ DEV Community (dev.to)
 
-<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=plastic&logo=dev.to&logoColor=white"> [Feministech](https://dev.to/feministech) <br>
-<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=plastic&logo=dev.to&logoColor=white"> [PHPWomenBR](https://dev.to/phpwomenbr) <br>
-<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=plastic&logo=dev.to&logoColor=white"> [WoMakersCode](https://dev.to/womakerscode) <br>
+- [Ana Maria](https://dev.to/anamaria)
+- [Ana Tech Dev](https://dev.to/anatechdev)
+- [Feministech](https://dev.to/feministech)
+- [PHPWomenBR](https://dev.to/phpwomenbr)
+- [WoMakersCode](https://dev.to/womakerscode) 
 
 ### 👾 Discord
 - He4rt Delas
