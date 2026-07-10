@@ -38,7 +38,7 @@ git push origin minha-contribuicao
 
 ---
 
-# 🌎 Quem pode contribuir?
+## 🌎 Quem pode contribuir?
 
 Este projeto é aberto para toda a comunidade.
 
@@ -53,13 +53,13 @@ São bem-vindas contribuições de:
 
 ---
 
-## 👩‍💻 Idealizadora
+## 👩‍💻 Mantenedora
 
 **Ana Maria Silva**
 
 Analista de TI • Desenvolvedora • Content Creator
 
-- 🌐 https://www.anamaria.dev.br
+- 🌐 https://www.anamaria.dev.br | https://www.anamariasilva.com.br
 - GitHub: https://github.com/anamariasilvadev
 - Instagram: https://instagram.com/ana.tech.dev
 - LinkedIn: https://linkedin.com/in/anamariasilva
