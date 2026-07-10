@@ -144,6 +144,8 @@ Quanto mais referências femininas estiverem visíveis, mais pessoas poderão se
 
 ### 📅 Eventos
 
+- Encontro de Mulheres e Carreira em Tecnologia | WoMakersCode
+- PrograMaria Summit
 - [SummitFlix | PrograMaria](https://www.programaria.org/summitflix/conteudos/)
 
 ### 📖 Formações, Cursos e Bootcamps de Organizações
@@ -219,7 +221,7 @@ Quanto mais referências femininas estiverem visíveis, mais pessoas poderão se
 
 ### ONGs
 
-- [IAMTHECODE FOUNDATION](https://www.iamthecode.org/)
+- Elas no Poder
 - [{reprograma}](https://reprograma.com.br) 
 - [WoMakersCode](https://womakerscode.org/)
 
@@ -240,6 +242,7 @@ Quanto mais referências femininas estiverem visíveis, mais pessoas poderão se
 
 - [Programa Women Techmakers do Google — Google for Developers](https://www.womentechmakers.com/)
 - [Programe como uma garota](https://programecomoumagarota.com/)
+- Pulsar STEM | NTT DATA FOUNDATION
 
 ### 🌐 Repositórios de Comunidades
 
