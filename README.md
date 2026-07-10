@@ -266,11 +266,6 @@ Quanto mais referências femininas estiverem visíveis, mais pessoas poderão se
 - [PrograMaria](https://github.com/programaria)
 - [WoMakersCode](https://github.com/WoMakersCode)
 
-<br>
-
-### Contribuições
-
-Leia o arquivo CONTRIBUTING.md
 
 ---
 
@@ -285,7 +280,7 @@ Leia o arquivo CONTRIBUTING.md
 
 ## 💜 Juntas, transformamos a tecnologia.
 
-Se você acredita em uma comunidade mais diversa, inclusiva e colaborativa, este projeto também é seu. Contribua com novos conteúdos.
+Se você acredita em uma comunidade mais diversa, inclusiva e colaborativa, este projeto também é seu. Contribua com novos conteúdos. Leia o arquivo CONTRIBUTING.md
 
 ⭐ Obrigada por contribuir!
 
