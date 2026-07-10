@@ -159,7 +159,7 @@ Quanto mais referências femininas estiverem visíveis, mais pessoas poderão se
 
 ### Grupos no LinkedIn
 
-- TechSisters
+- Tech Sisters
 - WoMakersCode
 
 ### ⭐ Histórias de Mulheres Inspiradoras
@@ -213,10 +213,14 @@ Quanto mais referências femininas estiverem visíveis, mais pessoas poderão se
 
 ### 📰 Newsletters
 
+- Nina News no LinkedIn
+- SpaceCoding | Deploy na Sexta no Linkedin
+- WoMakersCode | Substack
+
 ### ONGs
 
 - [IAMTHECODE FOUNDATION](https://www.iamthecode.org/)
-- [{reprograma}](https://reprograma.com.br)- 
+- [{reprograma}](https://reprograma.com.br) 
 - [WoMakersCode](https://womakerscode.org/)
 
 ### 📈 Palestras
