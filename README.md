@@ -26,12 +26,10 @@ Este repositório é inspirado e uma continuidade no repositório do meu antigo 
 
 ## 📚 Materiais
 
-- 👩‍💻 Criadoras de conteúdo
 - 📺 Canais no YouTube
 - 🎙️ Podcasts
 - 📰 Newsletters
 - 📝 Artigos
-- ✍️ Blogs
 - 📚 Livros
 - 🎓 Cursos
 - 🌎 Comunidades
@@ -48,6 +46,9 @@ Quanto mais referências femininas estiverem visíveis, mais pessoas poderão se
 
 ### 📝 Artigos
 
+- [27 desenvolvedoras brasileiras para se inspirar em 2022 por Laura Loenert](https://community.revelo.io/27-desenvolvedoras-brasileiras-para-se-inspirar-em-2022/)
+- [Artigos Revelo Community por Ana Maria Silva](https://community.revelo.com/author/ana/)
+- [Artigos Revelo Community por Mariana Carvalho](https://community.revelo.com/author/mari/)
 - [Artigos PrograMaria](https://www.programaria.org/category/artigos/)
 - [10 projetos focados na capacitação e qualificação em TI de mulheres, mulheres negras, mulheres trans e travestis.](https://dev.to/guiadeti/10-projetos-focados-na-capacitacao-e-qualificacao-em-ti-de-mulheres-mulheres-negras-mulheres-trans-e-travestis-11bo)
 - [Como criar um ótimo perfil de GitHub Sponsor por Pachi 🪐 (she/her/ela) for GitHub](https://dev.to/github/como-criar-um-otimo-perfil-de-github-sponsor-21ad)
@@ -65,11 +66,7 @@ Quanto mais referências femininas estiverem visíveis, mais pessoas poderão se
 - [10 dicas para construir uma comunidade open source por Pachi Codes](https://dev.to/github/10-dicas-para-construir-uma-comunidade-open-source-4ig0)
 - [Como se tornar uma pessoa desenvolvedora em 2024? por Morganna](https://dev.to/feministech/como-se-tornar-uma-pessoa-desenvolvedora-em-2024-2lk0)
 - [Nina da Hora, Autor em MIT Technology Review](https://mittechreview.com.br/author/nina-hora/)
-- [Como tratar exceções em uma API Java com @ControllerAdvice - Mônica Ribeiro](https://www.zup.com.br/blog/controller-advice)<br>
-- [27 desenvolvedoras brasileiras para se inspirar em 2022 por Laura Loenert](https://community.revelo.io/27-desenvolvedoras-brasileiras-para-se-inspirar-em-2022/)
-- [Artigos Revelo Community por Ana Maria Silva](https://community.revelo.com/author/ana/)
-- [Artigos Revelo Community por Mariana Carvalho](https://community.revelo.com/author/mari/)
-- [PrograMaria Encontros](https://www.programaria.org/category/programaria-encontros/)
+- [Como tratar exceções em uma API Java com @ControllerAdvice - Mônica Ribeiro](https://www.zup.com.br/blog/controller-advice)
 
 ### ✏️ Blogs
 
