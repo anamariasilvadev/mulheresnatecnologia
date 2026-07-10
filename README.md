@@ -181,9 +181,9 @@ Quanto mais referências femininas estiverem visíveis, mais pessoas poderão se
 
 ### 📚 Livros e e-books
 
-| [Mulheres em Tecnologia | Beatriz Oliveira, Mariana Carvalho | Casa do Código](https://www.casadocodigo.com.br/products/livro-mulheres-em-tecnologia)
-| [Livros Loiane Groner](https://www.packtpub.com/authors/loiane-groner) | Loiane Groner | 
-| [Gestão de Produtos como você nunca viu](https://mulheresdeproduto.com/livro) | Mulheres de Produto |
+- [Mulheres em Tecnologia](https://www.casadocodigo.com.br/products/livro-mulheres-em-tecnologia) |  Beatriz Oliveira, Mariana Carvalho | Casa do Código
+- [Livros Loiane Groner](https://www.packtpub.com/authors/loiane-groner) | Loiane Groner
+- [Gestão de Produtos como você nunca viu](https://mulheresdeproduto.com/livro) | Mulheres de Produto
 
 ### 📂 Materiais de Estudo
 
