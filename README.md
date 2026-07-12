@@ -12,7 +12,7 @@ O objetivo é ampliar a visibilidade de profissionais, incentivar novas pessoas 
 
 Este projeto é construído de forma colaborativa e toda contribuição é bem-vinda.
 
-Este repositório é inspirado e uma continuidade no repositório do meu antigo perfil do GitHub em [github.com/anatechdev/mulheres-na-tecnologia](https://github.com/anatechdev/mulheres-na-tecnologia)
+Este repositório é uma continuidade inspirada no repositório do meu antigo perfil do GitHub em [github.com/anatechdev/mulheres-na-tecnologia](https://github.com/anatechdev/mulheres-na-tecnologia)
 
 
 ## 📌 Objetivos
@@ -239,6 +239,7 @@ Quanto mais referências femininas estiverem visíveis, mais pessoas poderão se
 - [Programa Women Techmakers do Google — Google for Developers](https://www.womentechmakers.com/)
 - [Programe como uma garota](https://programecomoumagarota.com/)
 - Pulsar STEM | NTT DATA FOUNDATION
+-[Rede Mulher Empreededora - Ela Pode: Inteligência Artificial](https://rme.net.br/cursos-e-programas/)
 
 ### 🌐 Repositórios de Comunidades
 
@@ -267,6 +268,7 @@ Quanto mais referências femininas estiverem visíveis, mais pessoas poderão se
 ### 🏢 Repositórios de Organizações
 
 - [AnitaB.org Open Source](https://github.com/anitab-org)
+- [Instituto AZminas - QuitérIA](https://github.com/institutoazmina/ia-feminista-elas-no-congresso)
 - [Minas Programam](https://github.com/minasprogramam)
 - [PrograMaria](https://github.com/programaria)
 - [WoMakersCode](https://github.com/WoMakersCode)
