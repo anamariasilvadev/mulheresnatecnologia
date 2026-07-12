@@ -77,8 +77,6 @@ Quanto mais referências femininas estiverem visíveis, mais pessoas poderão se
 - [Code By Duda](https://www.youtube.com/c/CodeByDuda)
 - [Conecta Elas](https://www.youtube.com/@conectaelas)
 - [De Front Com Aline](https://www.youtube.com/c/DeFrontcomAline)
-- [Stephanie Cardoso - dev_steph](https://www.youtube.com/@dev_steph)
-- [Girl Coding](https://www.youtube.com/c/GirlCoding)
 - [Kamila code](https://www.youtube.com/@Kamilacode)
 - [Lais Frigerio](https://www.youtube.com/@laisfrigerio)
 - [Nina Talks](https://www.youtube.com/@NinaTalksToYou)
@@ -89,6 +87,7 @@ Quanto mais referências femininas estiverem visíveis, mais pessoas poderão se
 - [Punk do DevOps](https://www.youtube.com/c/punkdodevops)
 - [Quero ser dev por Simara Conceição](https://www.youtube.com/@queroserdev)
 - [Rafaella Ballerini](https://www.youtube.com/@rafaellaballerini)
+- [Stephanie Cardoso - dev_steph](https://www.youtube.com/@dev_steph)
 
 ### 🤖 Chatbots
 - [ButterflAI • WoMakers](https://chatgpt.com/g/g-68bb57d0c30481918b4c9abddaba6b86-butterflai-womakers)
@@ -100,6 +99,7 @@ Quanto mais referências femininas estiverem visíveis, mais pessoas poderão se
 - [Cloud Girls](https://www.cloudgirls.com.br/)
 - [Coletivo Unicas](https://coletivo-unicas.vercel.app/)
 - [Comunidade Ballerini](https://br.linkedin.com/company/comunidadeballerini)
+- [Elas Programam - Silvia Coelho](https://www.elasprogramam.com.br/)
 - [Feministech](https://feministech.com.br/)
 - [He4rt Delas por He4rt Developers](https://t.co/Dw3jeA8XFV)
 - [Iniciativa She Lovelace](https://www.linkedin.com/company/iniciativashelovelace/)
@@ -120,7 +120,6 @@ Quanto mais referências femininas estiverem visíveis, mais pessoas poderão se
 ### 🎓 Cursos
 
 - [Curso Eu ProgrAmo PrograMaria](https://www.programaria.org/cursos-programaria/)
-- [Curso Básico de Lógica de Programação com Python de Mulheres para Mulheres: Saindo do Zero | Elas Programam e Quero Ser Programadora](https://www.elasprogramam.com.br/)
 - [Curso completo de Modelagem de Banco de Dados na prática](https://www.udemy.com/course/curso-completo-de-modelagem-de-banco-de-dados-na-pratica/)
 - [Cursos Loiane Groner](https://loiane.training/)
 - [React para iniciantes com Simara Conceição](https://queroserdev.com/event)
@@ -229,7 +228,7 @@ Quanto mais referências femininas estiverem visíveis, mais pessoas poderão se
 
 - [Ciência Pod](https://www.stemparaminas.com/podcast)
 - [Feministech](https://podcasters.spotify.com/pod/show/feministech)
-- [Elas Programam | Silvia Coelho](https://open.spotify.com/show/1Ay5y5TFWQPq3Pw2Xy209U)
+- [Elas Programam Podcast | Silvia Coelho](https://www.elasprogramam.com.br/)
 - [Mulheres de Produto](https://open.spotify.com/show/1rfUWxL2Ia7kA343ClLya1)
 - [Quero Ser Dev | Simara Conceição](https://open.spotify.com/show/59vCz4TY6tPHXW26qJknh3) 
 - [DEVAneando | Paula Santana](https://open.spotify.com/show/5TYY7DTbeOyTgJxVLGO1Mf?si=2bb891e5f1044102)
