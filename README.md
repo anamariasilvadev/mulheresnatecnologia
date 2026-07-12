@@ -187,7 +187,7 @@ Quanto mais referências femininas estiverem visíveis, mais pessoas poderão se
 
 ### 📂 Materiais de Estudo
 
-- 
+- [Study Code - Conecta Elas](https://siteconectaelas.web.app/studycode)
 
 ### 📑 Medium
 
@@ -208,7 +208,7 @@ Quanto mais referências femininas estiverem visíveis, mais pessoas poderão se
 ### 🚀 Mentorias
 
 - [Abacatinhos.dev: grupo de mentoria sobre a área de Devrel](https://github.com/Abacatinhos)
-- [EntrevistaDeCodigoBR (@akaliueda)](https://docs.google.com/forms/d/e/1FAIpQLSfBrtQaCgeKwNLfpae69L8sY_HOOtlvKLgxdoUR0VSFtvEzhA/viewform)
+- [Comunidade Dev Completo - Dev Steph](https://devsteph.com/comunidade-dev-completo/)
 
 ### 📰 Newsletters
 
