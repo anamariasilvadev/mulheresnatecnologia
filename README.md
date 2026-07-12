@@ -217,7 +217,6 @@ Quanto mais referências femininas estiverem visíveis, mais pessoas poderão se
 
 ### ONGs
 
-- Elas no Poder
 - [{reprograma}](https://reprograma.com.br) 
 - [WoMakersCode](https://womakerscode.org/)
 
@@ -238,8 +237,8 @@ Quanto mais referências femininas estiverem visíveis, mais pessoas poderão se
 
 - [Programa Women Techmakers do Google — Google for Developers](https://www.womentechmakers.com/)
 - [Programe como uma garota](https://programecomoumagarota.com/)
-- Pulsar STEM | NTT DATA FOUNDATION
--[Rede Mulher Empreededora - Ela Pode: Inteligência Artificial](https://rme.net.br/cursos-e-programas/)
+- [Pulsar STEM | NTT DATA FOUNDATION - O Início da Jornada](https://www.youtube.com/watch?v=eRN8A7NHXRQ)
+- [Rede Mulher Empreededora - Ela Pode: Inteligência Artificial](https://rme.net.br/cursos-e-programas/)
 
 ### 🌐 Repositórios de Comunidades
 
