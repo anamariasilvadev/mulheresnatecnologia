@@ -163,11 +163,11 @@ Quanto mais referências femininas estiverem visíveis, mais pessoas poderão se
 
 ### ⭐ Histórias de Mulheres Inspiradoras
 
-- [Elas Inspiram | Brazilians in Tech](https://braziliansintech.com/elas/) <br>
+- [Elas Inspiram | Brazilians in Tech](https://www.braziliansintech.com/elas)) <br>
 
 ### 🏢 Instituições e Organizações
 
-- Brazilians in Tech
+- [Brazilians in Tech](https://www.braziliansintech.com/)
 - [Fly Educação e Cultura](https://www.flyeducacao.org/)
 - [Laboratória](https://laboratoria.la/pt)
 - [Meninas Digitais](https://meninas.sbc.org.br/)
