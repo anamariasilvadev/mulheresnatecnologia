@@ -4,7 +4,7 @@
 
 `Hello world, Mulheres na Tecnologia!`
 
-## 💜 Sobre o Projeto
+## Sobre o Projeto
 
 **Mulheres na Tecnologia** é um repositório colaborativo criado para reunir conteúdos, referências e iniciativas produzidas por mulheres que fazem a diferença no universo da tecnologia e STEM.
 
