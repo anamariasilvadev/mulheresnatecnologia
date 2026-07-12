@@ -140,7 +140,8 @@ Quanto mais referências femininas estiverem visíveis, mais pessoas poderão se
 
 ### 📅 Eventos
 
-- Encontro de Mulheres e Carreira em Tecnologia | WoMakersCode
+- [Encontro de Mulheres e Carreira em Tecnologia | WoMakersCode](https://luma.com/womakerscode)
+- [International Women's Day - IWD Google](https://gdg.community.dev/iwd/)
 - PrograMaria Summit
 - [SummitFlix | PrograMaria](https://www.programaria.org/summitflix/conteudos/)
 
@@ -155,7 +156,7 @@ Quanto mais referências femininas estiverem visíveis, mais pessoas poderão se
 - [Bullas Attekita | girls-in-tech-brazil](https://github.com/Bullas/girls-in-tech-brazil)
 - [Lais Frigério | mulheres-na-tecnologia](https://github.com/laisfrigerio/mulheres-na-tecnologia)
 
-### Grupos no LinkedIn
+### 🗣️ Grupos no LinkedIn
 
 - Tech Sisters
 - WoMakersCode
@@ -179,7 +180,7 @@ Quanto mais referências femininas estiverem visíveis, mais pessoas poderão se
 - [Livros Loiane Groner](https://www.packtpub.com/authors/loiane-groner) | Loiane Groner
 - [Gestão de Produtos como você nunca viu](https://mulheresdeproduto.com/livro) | Mulheres de Produto
 
-### Lojas
+### 👕 Lojas
 
 - [Loja online de WoMakersCode](https://womakerscode.lojavirtualnuvem.com.br/)
 - [Programe Como uma Garota](https://programecomoumagarota.com/loja/)
