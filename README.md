@@ -88,6 +88,7 @@ Quanto mais referências femininas estiverem visíveis, mais pessoas poderão se
 - [Quero ser dev por Simara Conceição](https://www.youtube.com/@queroserdev)
 - [Rafaella Ballerini](https://www.youtube.com/@rafaellaballerini)
 - [Stephanie Cardoso - dev_steph](https://www.youtube.com/@dev_steph)
+- [Websérie MULHERES na TECNOLOGIA com ANDRÉA PAIVA - Alura](https://www.youtube.com/playlist?list=PLh2Y_pKOa4Ud19R8VWtRt6D9Fb4eBb842)
 
 ### 🤖 Chatbots
 - [ButterflAI • WoMakers](https://chatgpt.com/g/g-68bb57d0c30481918b4c9abddaba6b86-butterflai-womakers)
