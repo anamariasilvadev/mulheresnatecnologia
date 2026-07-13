@@ -50,20 +50,20 @@ Quanto mais referências femininas estiverem visíveis, mais pessoas poderão se
 - [10 dicas para construir uma comunidade open source por Pachi Codes](https://dev.to/github/10-dicas-para-construir-uma-comunidade-open-source-4ig0)
 - [10 projetos focados na capacitação e qualificação em TI de mulheres, mulheres negras, mulheres trans e travestis.](https://dev.to/guiadeti/10-projetos-focados-na-capacitacao-e-qualificacao-em-ti-de-mulheres-mulheres-negras-mulheres-trans-e-travestis-11bo)
 - [Como criar um ótimo perfil de GitHub Sponsor por Pachi 🪐 (she/her/ela) for GitHub](https://dev.to/github/como-criar-um-otimo-perfil-de-github-sponsor-21ad)
-- [Como eu faço para perceber a minha evolução? por Morganna Giovanelli for Feministech](https://dev.to/feministech/como-eu-faco-para-perceber-a-minha-evolucao-cob)
-- [Como produzir seu primeiro conteúdo - Lissa Ferreira for Feministech](https://dev.to/feministech/como-produzir-seu-primeiro-conteudo-4lo6)
+- [Como eu faço para perceber a minha evolução? por Morganna Giovanelli for Feministech](https://dev.to/feministech/como-eu-faco-para-perceber-a-minha-evolucao-cob)- 
+- [Como tratar exceções em uma API Java com @ControllerAdvice - Mônica Ribeiro](https://www.zup.com.br/blog/controller-advice)
+- [Como produzir seu primeiro conteúdo - Lissa Ferreira for Feministech](https://dev.to/feministech/como-produzir-seu-primeiro-conteudo-4lo6)- 
+- [Como se tornar uma pessoa desenvolvedora em 2024? por Morganna](https://dev.to/feministech/como-se-tornar-uma-pessoa-desenvolvedora-em-2024-2lk0)
 - [Formas de contribuir com as comunidades de tecnologia por Morganna Giovanelli for Feministech](https://dev.to/feministech/formas-de-contribuir-com-as-comunidades-de-tecnologia-2mfd)
 - [Github para leigos por Leticia 'levxyca'](https://dev.to/levxyca/pt-br-github-para-leigos-4i7j)
 - [GitHub Student: conseguindo ofertas e benefícios dos parceiros GitHub por Leticia 'levxyca'](https://dev.to/feministech/github-student-conseguindo-ofertas-e-beneficios-dos-parceiros-github-1c6n) 
 - [Intro ao GitHub Actions: Mostrando artigos no seu READ.me por Pachi 🪐 (she/her/ela) for Feministech](https://dev.to/github/intro-ao-github-actions-mostrando-artigos-no-seu-readme-5f4a)
-- [Mulheres pioneiras na tecnologia](https://dev.to/feministech/mulheres-pioneiras-na-tecnologia-4a2o)
+- [Mulheres pioneiras na tecnologia](https://dev.to/feministech/mulheres-pioneiras-na-tecnologia-4a2o)- 
+- [Nina da Hora, Autor em MIT Technology Review](https://mittechreview.com.br/author/nina-hora/)
 - [O quê são comunidades de tecnologia? - Lissa Ferreira for Feministech](https://dev.to/feministech/o-que-sao-comunidades-de-tecnologia-2e22) <br>
 - [[pt-BR] O mínimo que você precisa saber pra criar conteúdo como dev por Pachi 🪐 (she/her/ela) for Feministech](https://dev.to/feministech/o-minimo-que-voce-precisa-saber-pra-criar-conteudo-como-dev-a9)
 - [Social Media para devs - Lissa Ferreira for Feministech](https://dev.to/feministech/social-media-para-devs-3l96)
 - [Transição de Carreira por Larissa de Oliveira](https://dev.to/larideoliiveira/transicao-de-carreira-3c9c?signin=true)
-- [Como se tornar uma pessoa desenvolvedora em 2024? por Morganna](https://dev.to/feministech/como-se-tornar-uma-pessoa-desenvolvedora-em-2024-2lk0)
-- [Nina da Hora, Autor em MIT Technology Review](https://mittechreview.com.br/author/nina-hora/)
-- [Como tratar exceções em uma API Java com @ControllerAdvice - Mônica Ribeiro](https://www.zup.com.br/blog/controller-advice)
 
 ### ✏️ Blogs
 
@@ -88,7 +88,7 @@ Quanto mais referências femininas estiverem visíveis, mais pessoas poderão se
 - [Quero ser dev por Simara Conceição](https://www.youtube.com/@queroserdev)
 - [Rafaella Ballerini](https://www.youtube.com/@rafaellaballerini)
 - [Stephanie Cardoso - dev_steph](https://www.youtube.com/@dev_steph)
-- [Websérie MULHERES na TECNOLOGIA com ANDRÉA PAIVA - Alura](https://www.youtube.com/playlist?list=PLh2Y_pKOa4Ud19R8VWtRt6D9Fb4eBb842)
+- [Websérie Mulheres na Tecnologia com ANDRÉA PAIVA - Alura](https://www.youtube.com/playlist?list=PLh2Y_pKOa4Ud19R8VWtRt6D9Fb4eBb842)
 
 ### 🤖 Chatbots
 - [ButterflAI • WoMakers](https://chatgpt.com/g/g-68bb57d0c30481918b4c9abddaba6b86-butterflai-womakers)
@@ -102,8 +102,6 @@ Quanto mais referências femininas estiverem visíveis, mais pessoas poderão se
 - [Comunidade Ballerini](https://br.linkedin.com/company/comunidadeballerini)
 - [Elas Programam - Silvia Coelho](https://www.elasprogramam.com.br/)
 - [Feministech](https://feministech.com.br/)
-- [He4rt Delas por He4rt Developers](https://t.co/Dw3jeA8XFV)
-- [Iniciativa She Lovelace](https://www.linkedin.com/company/iniciativashelovelace/)
 - [Mulheres Agilistas](https://www.instagram.com/mulheresagilistas/)
 - [Mulheres de Produto](https://mulheresdeproduto.com/)
 - [PHPWomenBR](https://www.linkedin.com/company/phpwomenbr/)
@@ -246,6 +244,7 @@ Quanto mais referências femininas estiverem visíveis, mais pessoas poderão se
 - [Abacatinhos.dev: grupo de mentoria sobre a área de Devrel](https://github.com/Abacatinhos)
 - [Compiladoras de Cafeína](https://github.com/compiladoras)
 - [Feministech](https://github.com/feministech)
+- [He4rt Delas](https://github.com/He4rt-Delas)
 - [Mulheres em Dados](https://github.com/mulheresemdados)
 - [PHPWomenBR](https://github.com/phpwomenbr)
 - [PyLadies Brasil](https://github.com/pyladies-brazil)
