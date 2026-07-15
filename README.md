@@ -137,6 +137,10 @@ Quanto mais referências femininas estiverem visíveis, mais pessoas poderão se
 - PrograMaria
 - Tech Sisters
 
+### 🎙️ Episódios de Podcasts Tech
+
+- [TOTVS Developers #67 - A presença feminina no mercado Tech - TOTVS Developers Podcast | Podcast on Spotify](https://open.spotify.com/episode/01ECbZGinw0pf8DB2qr3RF)
+
 ### 📅 Eventos
 
 - [Encontro de Mulheres e Carreira em Tecnologia | WoMakersCode](https://luma.com/womakerscode)
