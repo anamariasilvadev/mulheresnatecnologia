@@ -6,7 +6,7 @@
 
 ## Sobre o Projeto
 
-**Mulheres na Tecnologia** é um repositório colaborativo criado para reunir conteúdos, referências e iniciativas produzidas por mulheres que fazem a diferença no universo da tecnologia e STEM.
+**Mulheres na Tecnologia** é um repositório colaborativo criado para reunir conteúdos, referências e iniciativas produzidas por e para mulheres que fazem a diferença no universo da tecnologia e STEM.
 
 O objetivo é ampliar a visibilidade de profissionais, incentivar novas pessoas a ingressarem na área e facilitar o acesso a materiais de qualidade produzidos pela comunidade.
 
@@ -100,6 +100,7 @@ Quanto mais referências femininas estiverem visíveis, mais pessoas poderão se
 - [Cloud Girls](https://www.cloudgirls.com.br/)
 - [Coletivo Unicas](https://coletivo-unicas.vercel.app/)
 - [Comunidade Ballerini](https://br.linkedin.com/company/comunidadeballerini)
+- [Data Girls Community](https://www.instagram.com/datagirls.community)
 - [Elas Programam - Silvia Coelho](https://www.elasprogramam.com.br/)
 - [Feministech](https://feministech.com.br/)
 - [Mulheres Agilistas](https://www.instagram.com/mulheresagilistas/)
@@ -133,6 +134,8 @@ Quanto mais referências femininas estiverem visíveis, mais pessoas poderão se
 - [WoMakersCode](https://dev.to/womakerscode) 
 
 ### 👾 Discord
+
+- Data Girls Community
 - He4rt Delas
 - PrograMaria
 - Tech Sisters
@@ -148,6 +151,7 @@ Quanto mais referências femininas estiverem visíveis, mais pessoas poderão se
 - [Mulher Tech Sim Senhor - 11ª edição](https://2026.mulhertechsimsr.com.br/)
 - PrograMaria Summit
 - [SummitFlix | PrograMaria](https://www.programaria.org/summitflix/conteudos/)
+- [Women in Information Technology (WIT) - Meninas Digitais](https://meninas.sbc.org.br/sobre-o-wit/)
 
 ### 📖 Formações, Cursos e Bootcamps de Organizações
 
@@ -245,6 +249,7 @@ Quanto mais referências femininas estiverem visíveis, mais pessoas poderão se
 
 ### 💻 Programas
 
+- [Programa Meninas Digitais](https://meninas.sbc.org.br/)
 - [Programa Women Techmakers do Google — Google for Developers](https://www.womentechmakers.com/)
 - [Programe como uma garota](https://programecomoumagarota.com/)
 - [Pulsar STEM | NTT DATA FOUNDATION - O Início da Jornada](https://www.youtube.com/watch?v=eRN8A7NHXRQ)
