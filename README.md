@@ -125,6 +125,10 @@ Quanto mais referências femininas estiverem visíveis, mais pessoas poderão se
 - [Cursos Loiane Groner](https://loiane.training/)
 - [React para iniciantes com Simara Conceição](https://queroserdev.com/event)
 
+### Datas Comemorativas
+
+- Ada Lovelace Day - Evento internacional celebrado anualmente na segunda terça-feira de outubro
+
 ### 🖥️ DEV Community (dev.to)
 
 - [Ana Maria](https://dev.to/anamaria)
@@ -253,7 +257,7 @@ Quanto mais referências femininas estiverem visíveis, mais pessoas poderão se
 - [Programa Women Techmakers do Google — Google for Developers](https://www.womentechmakers.com/)
 - [Programe como uma garota](https://programecomoumagarota.com/)
 - [Pulsar STEM | NTT DATA FOUNDATION - O Início da Jornada](https://www.youtube.com/watch?v=eRN8A7NHXRQ)
-- [Rede Mulher Empreededora - Ela Pode: Inteligência Artificial](https://rme.net.br/cursos-e-programas/)
+- [Rede Mulher Empreendedora (RME) - Ela Pode: Inteligência Artificial](https://rme.net.br/cursos-e-programas/)
 
 ### 🌐 Repositórios de Comunidades
 
