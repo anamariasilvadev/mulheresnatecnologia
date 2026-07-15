@@ -104,6 +104,7 @@ Quanto mais referências femininas estiverem visíveis, mais pessoas poderão se
 - [Feministech](https://feministech.com.br/)
 - [Mulheres Agilistas](https://www.instagram.com/mulheresagilistas/)
 - [Mulheres de Produto](https://mulheresdeproduto.com/)
+- [Mulher Tech Sim Senhor](https://mulhertechsimsr.com.br/)
 - [PHPWomenBR](https://www.linkedin.com/company/phpwomenbr/)
 - [Mulheres em IA](https://www.linkedin.com/company/mulheres-em-ia/)
 - [PHPWomenBR](https://phpwomen.org.br/)
@@ -140,6 +141,7 @@ Quanto mais referências femininas estiverem visíveis, mais pessoas poderão se
 
 - [Encontro de Mulheres e Carreira em Tecnologia | WoMakersCode](https://luma.com/womakerscode)
 - [International Women's Day - IWD Google](https://gdg.community.dev/iwd/)
+- [Mulher Tech Sim Senhor](https://2026.mulhertechsimsr.com.br/)
 - PrograMaria Summit
 - [SummitFlix | PrograMaria](https://www.programaria.org/summitflix/conteudos/)
 
@@ -161,7 +163,12 @@ Quanto mais referências femininas estiverem visíveis, mais pessoas poderão se
 
 ### ⭐ Histórias de Mulheres Inspiradoras
 
-- [Elas Inspiram | Brazilians in Tech](https://www.braziliansintech.com/elas)) <br>
+- [Elas Inspiram | Brazilians in Tech](https://www.braziliansintech.com/elas)
+
+### Iniciativas com Inscrições Abertas
+
+ - [Curso Eu Progr{amo} - PrograMaria](https://www.programaria.org/ultima-chance/)
+ - [Mulher +Tech - ONU Mulheres](https://brasil.unwomen.org/pt-br/stories/noticia/inscricoes-abertas-mulher%2Btech)
 
 ### 🏢 Instituições e Organizações
 
