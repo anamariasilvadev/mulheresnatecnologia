@@ -182,6 +182,13 @@ Quanto mais referências femininas estiverem visíveis, mais pessoas poderão se
  - [Curso Eu Progr{amo} - PrograMaria](https://www.programaria.org/ultima-chance/)
  - [Mulher +Tech - ONU Mulheres](https://brasil.unwomen.org/pt-br/stories/noticia/inscricoes-abertas-mulher%2Btech)
 
+### 🏢 Instituições Internacionais
+
+- Built by Girls
+- Girls Who Code
+- Women Who Code
+- WomenTech Network
+
 ### 🏢 Instituições e Organizações
 
 - [Brazilians in Tech](https://www.braziliansintech.com/)
