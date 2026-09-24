@@ -183,7 +183,6 @@ Quanto mais referências femininas estiverem visíveis, mais pessoas poderão se
 
 ### 🏢 Instituições Internacionais
 
-- [Anita.org](https://anitab.org/)
 - Built by Girls
 - Girls Who Code
 - [Women Techmakers | Technovation](https://www.technovation.org/women-techmakers)
