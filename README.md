@@ -119,8 +119,7 @@ Quanto mais referências femininas estiverem visíveis, mais pessoas poderão se
 
 ### 🎓 Cursos
 
-- [Curso Eu ProgrAmo PrograMaria](https://www.programaria.org/cursos-programaria/)
-- [Curso completo de Modelagem de Banco de Dados na prática](https://www.udemy.com/course/curso-completo-de-modelagem-de-banco-de-dados-na-pratica/)
+- [Curso Eu ProgrAmo PrograMaria](https://www.programaria.org/curso-python-iniciante/)
 - [Cursos Loiane Groner](https://loiane.training/)
 - [React para iniciantes com Simara Conceição](https://queroserdev.com/event)
 
@@ -145,11 +144,12 @@ Quanto mais referências femininas estiverem visíveis, mais pessoas poderão se
 
 ### 🎙️ Episódios de Podcasts Tech
 
+- [Cynthia Zanoni - Construindo Carreira com Tecnologia | freeCodeCamp Podcast | ep.47](https://www.youtube.com/watch?v=g0YcCQDcnYY)
 - [TOTVS Developers #67 - A presença feminina no mercado Tech - TOTVS Developers Podcast | Podcast on Spotify](https://open.spotify.com/episode/01ECbZGinw0pf8DB2qr3RF)
 
 ### 📅 Eventos
 
-- [Encontro de Mulheres e Carreira em Tecnologia | WoMakersCode](https://luma.com/womakerscode)
+- [Cursos, eventos, mentorias e carreira | WoMakersCode](https://luma.com/womakerscode)
 - [International Women's Day - IWD Google](https://gdg.community.dev/iwd/)
 - [Mulher Tech Sim Senhor - 11ª edição](https://2026.mulhertechsimsr.com.br/)
 - PrograMaria Summit
@@ -183,6 +183,7 @@ Quanto mais referências femininas estiverem visíveis, mais pessoas poderão se
 
 ### 🏢 Instituições Internacionais
 
+- [Anita.org](https://anitab.org/)
 - Built by Girls
 - Girls Who Code
 - [Women Techmakers | Technovation](https://www.technovation.org/women-techmakers)
@@ -244,7 +245,6 @@ Quanto mais referências femininas estiverem visíveis, mais pessoas poderão se
 ### 🎙️Podcasts
 
 - [Ciência Pod](https://www.stemparaminas.com/podcast)
-- [Cynthia Zanoni - Construindo Carreira com Tecnologia | freeCodeCamp Podcast | ep.47](https://www.youtube.com/watch?v=g0YcCQDcnYY)
 - [Feministech](https://podcasters.spotify.com/pod/show/feministech)
 - [Elas Programam Podcast | Silvia Coelho](https://www.elasprogramam.com.br/)
 - [Mulheres de Produto](https://open.spotify.com/show/1rfUWxL2Ia7kA343ClLya1)
