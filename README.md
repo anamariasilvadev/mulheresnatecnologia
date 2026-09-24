@@ -76,14 +76,13 @@ Quanto mais referências femininas estiverem visíveis, mais pessoas poderão se
 - [Attekita Dev](https://www.youtube.com/@attekitadev)
 - [Code By Duda](https://www.youtube.com/c/CodeByDuda)
 - [Conecta Elas](https://www.youtube.com/@conectaelas)
-- [De Front Com Aline](https://www.youtube.com/c/DeFrontcomAline)
+- [Fernanda Kipper](https://www.youtube.com/@kipperdev)
 - [Kamila code](https://www.youtube.com/@Kamilacode)
 - [Lais Frigerio](https://www.youtube.com/@laisfrigerio)
 - [Nina Talks](https://www.youtube.com/@NinaTalksToYou)
 - [Natália F. Dev](https://www.youtube.com/@NataliaFDev)
 - [Loiane Groner](https://www.youtube.com/@loianegroner)
 - [Michelli Brito](https://www.youtube.com/c/MichelliBrito/featured) 
-- [Peixe Babel](https://www.youtube.com/c/PeixeBabel/featured)
 - [Punk do DevOps](https://www.youtube.com/c/punkdodevops)
 - [Quero ser dev por Simara Conceição](https://www.youtube.com/@queroserdev)
 - [Rafaella Ballerini](https://www.youtube.com/@rafaellaballerini)
@@ -186,6 +185,7 @@ Quanto mais referências femininas estiverem visíveis, mais pessoas poderão se
 
 - Built by Girls
 - Girls Who Code
+- [Women Techmakers | Technovation](https://www.technovation.org/women-techmakers)
 - Women Who Code
 - WomenTech Network
 
@@ -208,10 +208,6 @@ Quanto mais referências femininas estiverem visíveis, mais pessoas poderão se
 
 - [Loja online de WoMakersCode](https://womakerscode.lojavirtualnuvem.com.br/)
 - [Programe Como uma Garota](https://programecomoumagarota.com/loja/)
-
-### 📂 Materiais de Estudo
-
-- [Study Code - Conecta Elas](https://siteconectaelas.web.app/studycode)
 
 ### 📑 Medium
 
@@ -245,13 +241,10 @@ Quanto mais referências femininas estiverem visíveis, mais pessoas poderão se
 - [{reprograma}](https://reprograma.com.br) 
 - [WoMakersCode](https://womakerscode.org/)
 
-### 📈 Palestras
-
-- [Palestras da Kamila Santos - @kamila_code](https://speakerdeck.com/kamilahsantos)
-
 ### 🎙️Podcasts
 
 - [Ciência Pod](https://www.stemparaminas.com/podcast)
+- [Cynthia Zanoni - Construindo Carreira com Tecnologia | freeCodeCamp Podcast | ep.47](https://www.youtube.com/watch?v=g0YcCQDcnYY)
 - [Feministech](https://podcasters.spotify.com/pod/show/feministech)
 - [Elas Programam Podcast | Silvia Coelho](https://www.elasprogramam.com.br/)
 - [Mulheres de Produto](https://open.spotify.com/show/1rfUWxL2Ia7kA343ClLya1)
@@ -299,6 +292,13 @@ Quanto mais referências femininas estiverem visíveis, mais pessoas poderão se
 - [PrograMaria](https://github.com/programaria)
 - [WoMakersCode](https://github.com/WoMakersCode)
 
+### 📈 Séries
+
+- [Da especificação à aplicação: desenvolva e valide com agentes no VS Code](https://www.youtube.com/watch?v=XZnLvDWCx1Y)
+
+### Software
+
+- [System Design DOJO por Ana Neri](https://sysdojo.io/dashboard)
 
 ---
 
