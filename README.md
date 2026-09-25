@@ -104,6 +104,7 @@ Quanto mais referências femininas estiverem visíveis, mais pessoas poderão se
 - [Feministech](https://feministech.com.br/)
 - [Mulheres Agilistas](https://www.instagram.com/mulheresagilistas/)
 - [Mulheres de Produto](https://mulheresdeproduto.com/)
+- [Mulheres que Codam](https://www.instagram.com/mulheresquecodam.oficial)
 - [Mulher Tech Sim Senhor](https://mulhertechsimsr.com.br/)
 - [PHPWomenBR](https://www.linkedin.com/company/phpwomenbr/)
 - [Mulheres em IA](https://www.linkedin.com/company/mulheres-em-ia/)
@@ -232,9 +233,10 @@ Quanto mais referências femininas estiverem visíveis, mais pessoas poderão se
 
 ### 📰 Newsletters
 
+- Brazilians in Tech  no Substack
 - Nina News no LinkedIn
-- SpaceCoding | Deploy na Sexta no Linkedin
-- WoMakersCode | Substack
+- SpaceCoding - Deploy na Sexta no Linkedin
+- WoMakersCode no Substack
 
 ### ONGs
 
