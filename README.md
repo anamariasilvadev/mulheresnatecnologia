@@ -196,7 +196,7 @@ Quanto mais referências femininas estiverem visíveis, mais pessoas poderão se
 
 ### 📚 Livros e e-books
 
-- [Mulheres em Tecnologia](https://www.casadocodigo.com.br/products/livro-mulheres-em-tecnologia) -  Beatriz Oliveira, Mariana Carvalho | Casa do Código
+- [Mulheres em Tecnologia](https://www.casadocodigo.com.br/products/livro-mulheres-em-tecnologia) - Beatriz Oliveira, Mariana Carvalho - Casa do Código
 - [Livros Loiane Groner](https://www.packtpub.com/authors/loiane-groner) - Loiane Groner
 - [Gestão de Produtos como você nunca viu](https://mulheresdeproduto.com/livro) - Mulheres de Produto
 
@@ -324,8 +324,8 @@ Se você acredita em uma comunidade mais diversa, inclusiva e colaborativa, este
 
 Analista de TI • Desenvolvedora • Content Creator
 
-- 🌐 https://www.anamaria.dev.br | https://www.anamariasilva.com.br
-- :octocat: https://github.com/anamariasilvadev
+- 🌐 https://www.anamaria.dev.br / https://www.anamariasilva.com.br
+- https://github.com/anamariasilvadev
 - Instagram: https://instagram.com/ana.tech.dev
 - LinkedIn: https://linkedin.com/in/anamariasilva
 
