@@ -170,7 +170,7 @@ Quanto mais referências femininas estiverem visíveis, mais pessoas poderão se
 
 ### ⭐ Histórias de Mulheres Inspiradoras
 
-- [Elas Inspiram | Brazilians in Tech](https://www.braziliansintech.com/elas)
+- [Elas Inspiram - Brazilians in Tech](https://www.braziliansintech.com/elas)
 
 ### Iniciativas com Inscrições Abertas
 
@@ -196,9 +196,9 @@ Quanto mais referências femininas estiverem visíveis, mais pessoas poderão se
 
 ### 📚 Livros e e-books
 
-- [Mulheres em Tecnologia](https://www.casadocodigo.com.br/products/livro-mulheres-em-tecnologia) |  Beatriz Oliveira, Mariana Carvalho | Casa do Código
-- [Livros Loiane Groner](https://www.packtpub.com/authors/loiane-groner) | Loiane Groner
-- [Gestão de Produtos como você nunca viu](https://mulheresdeproduto.com/livro) | Mulheres de Produto
+- [Mulheres em Tecnologia](https://www.casadocodigo.com.br/products/livro-mulheres-em-tecnologia) -  Beatriz Oliveira, Mariana Carvalho | Casa do Código
+- [Livros Loiane Groner](https://www.packtpub.com/authors/loiane-groner) - Loiane Groner
+- [Gestão de Produtos como você nunca viu](https://mulheresdeproduto.com/livro) - Mulheres de Produto
 
 ### 👕 Lojas
 
@@ -272,17 +272,17 @@ Quanto mais referências femininas estiverem visíveis, mais pessoas poderão se
 
 ### ⭐ Repositórios de Pessoas Desenvolvedoras
 
-- [21 dias de código - Desafio Rocketseat por Lais Frigério | laisfrigerio](https://github.com/laisfrigerio/21-dias-de-codigo-rocketseat) <br>
-- [100 dias de evolução dev por Lyssa Cavalcanti Backschat | lyssacavalcanti](https://github.com/lyssacavalcanti/100DiasEvolucaoDev) <br>
-- [Criando um currículo por Leticia Coelho | engenheiracoelho](https://github.com/engenheiracoelho/curriculo) <br>
-- [CSS_Tools por Leticia Coelho e Ana Maria | engenheiracoelho e anamariasilva](https://github.com/engenheiracoelho/CSS_tools) <br>
-- [GitHub por Leticia Coelho | engenheiracoelho](https://github.com/engenheiracoelho/github) <br>
-- [Livros e conteúdos sobre tecnologia e sociedade| carlaprvieira](https://github.com/carlaprv/livros-tecnologia-sociedade) <br>
-- [Mulheres no mundo da tecnologia por Morganna Giovanelli | morgannadev](https://github.com/morgannadev/mulherestecnologia) <br>
-- [Por onde começar? por Letícia Silva | leticiadasilva](https://github.com/leticiadasilva/por-onde-comecar) <br>
-- [O que é o logicadelevs? por Leticia 'levxyca' | levxyca](https://github.com/levxyca/logicadelevs) <br>
-- [Transchange por Lissa Ferreira | lissaferreira](https://github.com/lissaferreira/transchange) <br>
-- [Call For Papers | Call 4 Papers | CFP | C4P por Lais Frigério | laisfrigerio](https://github.com/laisfrigerio/call-for-papers) <br>
+- [21 dias de código - Desafio Rocketseat por Lais Frigério - laisfrigerio](https://github.com/laisfrigerio/21-dias-de-codigo-rocketseat)
+- [100 dias de evolução dev por Lyssa Cavalcanti Backschat - lyssacavalcanti](https://github.com/lyssacavalcanti/100DiasEvolucaoDev)
+- [Criando um currículo por Leticia Coelho - engenheiracoelho](https://github.com/engenheiracoelho/curriculo)
+- [CSS_Tools por Leticia Coelho e Ana Maria - engenheiracoelho e anamariasilva](https://github.com/engenheiracoelho/CSS_tools)
+- [GitHub por Leticia Coelho - engenheiracoelho](https://github.com/engenheiracoelho/github)
+- [Livros e conteúdos sobre tecnologia e sociedade - carlaprvieira](https://github.com/carlaprv/livros-tecnologia-sociedade) 
+- [Mulheres no mundo da tecnologia por Morganna Giovanelli | morgannadev](https://github.com/morgannadev/mulherestecnologia) 
+- [Por onde começar? por Letícia Silva - leticiadasilva](https://github.com/leticiadasilva/por-onde-comecar)
+- [O que é o logicadelevs? por Leticia 'levxyca' - levxyca](https://github.com/levxyca/logicadelevs)
+- [Transchange por Lissa Ferreira - lissaferreira](https://github.com/lissaferreira/transchange)
+- [Call For Papers por Lais Frigério | laisfrigerio](https://github.com/laisfrigerio/call-for-papers)
 
 ### 🏢 Repositórios de Organizações
 
