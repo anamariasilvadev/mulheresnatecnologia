@@ -1,4 +1,4 @@
-<img width="1983" height="793" alt="capa do repositório" src="https://github.com/user-attachments/assets/74d427f9-218f-4f6d-a60d-f0e9cf91d66f" />
+<img alt="capa do repositório Mulheres na Tecnologia" src="https://github.com/user-attachments/assets/74d427f9-218f-4f6d-a60d-f0e9cf91d66f" />
 
 # Mulheres na Tecnologia
 
@@ -91,7 +91,7 @@ Quanto mais referências femininas estiverem visíveis, mais pessoas poderão se
 
 ### 🤖 Chatbots
 - [ButterflAI • WoMakers](https://chatgpt.com/g/g-68bb57d0c30481918b4c9abddaba6b86-butterflai-womakers)
-- [Maria Valente | A Chatbot da Toda Cidadã](https://www.todacidada.org/cidadaniadigital)
+- [Maria Valente - A Chatbot da Toda Cidadã](https://www.todacidada.org/cidadaniadigital)
 
 ### 🌎 Comunidades
 
@@ -145,16 +145,16 @@ Quanto mais referências femininas estiverem visíveis, mais pessoas poderão se
 
 ### 🎙️ Episódios de Podcasts Tech
 
-- [Cynthia Zanoni - Construindo Carreira com Tecnologia | freeCodeCamp Podcast | ep.47](https://www.youtube.com/watch?v=g0YcCQDcnYY)
-- [TOTVS Developers #67 - A presença feminina no mercado Tech - TOTVS Developers Podcast | Podcast on Spotify](https://open.spotify.com/episode/01ECbZGinw0pf8DB2qr3RF)
+- [Cynthia Zanoni - Construindo Carreira com Tecnologia - freeCodeCamp Podcast - ep.47](https://www.youtube.com/watch?v=g0YcCQDcnYY)
+- [TOTVS Developers #67 - A presença feminina no mercado Tech - TOTVS Developers Podcast - Podcast on Spotify](https://open.spotify.com/episode/01ECbZGinw0pf8DB2qr3RF)
 
 ### 📅 Eventos
 
-- [Cursos, eventos, mentorias e carreira | WoMakersCode](https://luma.com/womakerscode)
+- [Cursos, eventos, mentorias e carreira - WoMakersCode](https://luma.com/womakerscode)
 - [International Women's Day - IWD Google](https://gdg.community.dev/iwd/)
 - [Mulher Tech Sim Senhor - 11ª edição](https://2026.mulhertechsimsr.com.br/)
 - PrograMaria Summit
-- [SummitFlix | PrograMaria](https://www.programaria.org/summitflix/conteudos/)
+- [SummitFlix - PrograMaria](https://www.programaria.org/summitflix/conteudos/)
 - [Women in Information Technology (WIT) - Meninas Digitais](https://meninas.sbc.org.br/sobre-o-wit/)
 
 ### 📖 Formações, Cursos e Bootcamps de Organizações
@@ -162,11 +162,6 @@ Quanto mais referências femininas estiverem visíveis, mais pessoas poderão se
 - [Cursos {reprograma}](https://www.reprograma.com.br)
 - [Curso eu Progr{amo} da PrograMaria](https://www.programaria.org/ultima-chance/)
 - [Mais Mulheres em Tech | WoMakersCode](https://www.maismulheres.tech/)
-
-### :octocat: GitHub
-
-- [Bullas Attekita | girls-in-tech-brazil](https://github.com/Bullas/girls-in-tech-brazil)
-- [Lais Frigério | mulheres-na-tecnologia](https://github.com/laisfrigerio/mulheres-na-tecnologia)
 
 ### 🗣️ Grupos no LinkedIn
 
@@ -186,7 +181,7 @@ Quanto mais referências femininas estiverem visíveis, mais pessoas poderão se
 
 - Built by Girls
 - Girls Who Code
-- [Women Techmakers | Technovation](https://www.technovation.org/women-techmakers)
+- [Women Techmakers - Technovation](https://www.technovation.org/women-techmakers)
 - Women Who Code
 - WomenTech Network
 
@@ -247,18 +242,22 @@ Quanto mais referências femininas estiverem visíveis, mais pessoas poderão se
 
 - [Ciência Pod](https://www.stemparaminas.com/podcast)
 - [Feministech](https://podcasters.spotify.com/pod/show/feministech)
-- [Elas Programam Podcast | Silvia Coelho](https://www.elasprogramam.com.br/)
+- [Elas Programam Podcast - Silvia Coelho](https://www.elasprogramam.com.br/)
 - [Mulheres de Produto](https://open.spotify.com/show/1rfUWxL2Ia7kA343ClLya1)
-- [Quero Ser Dev | Simara Conceição](https://open.spotify.com/show/59vCz4TY6tPHXW26qJknh3) 
-- [DEVAneando | Paula Santana](https://open.spotify.com/show/5TYY7DTbeOyTgJxVLGO1Mf?si=2bb891e5f1044102)
+- [Quero Ser Dev - Simara Conceição](https://open.spotify.com/show/59vCz4TY6tPHXW26qJknh3) 
 
 ### 💻 Programas
 
 - [Programa Meninas Digitais](https://meninas.sbc.org.br/)
 - [Programa Women Techmakers do Google — Google for Developers](https://www.womentechmakers.com/)
 - [Programe como uma garota](https://programecomoumagarota.com/)
-- [Pulsar STEM | NTT DATA FOUNDATION - O Início da Jornada](https://www.youtube.com/watch?v=eRN8A7NHXRQ)
+- [Pulsar STEM - NTT DATA FOUNDATION - O Início da Jornada](https://www.youtube.com/watch?v=eRN8A7NHXRQ)
 - [Rede Mulher Empreendedora (RME) - Ela Pode: Inteligência Artificial](https://rme.net.br/cursos-e-programas/)
+
+### :octocat: Projetos GitHub
+
+- [Bullas Attekita - girls-in-tech-brazil](https://github.com/Bullas/girls-in-tech-brazil)
+- [Lais Frigério - mulheres-na-tecnologia](https://github.com/laisfrigerio/mulheres-na-tecnologia)
 
 ### 🌐 Repositórios de Comunidades
 
