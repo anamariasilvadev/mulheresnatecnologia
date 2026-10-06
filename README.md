@@ -153,7 +153,7 @@ Quanto mais referências femininas estiverem visíveis, mais pessoas poderão se
 - [Cursos, eventos, mentorias e carreira - WoMakersCode](https://luma.com/womakerscode)
 - [International Women's Day - IWD Google](https://gdg.community.dev/iwd/)
 - [Mulher Tech Sim Senhor - 11ª edição](https://2026.mulhertechsimsr.com.br/)
-- PrograMaria Summit
+- [PrograMaria Summit 2026](https://www.programaria.org/programariasummit2026/)
 - [SummitFlix - PrograMaria](https://www.programaria.org/summitflix/conteudos/)
 - [Women in Information Technology (WIT) - Meninas Digitais](https://meninas.sbc.org.br/sobre-o-wit/)
 
